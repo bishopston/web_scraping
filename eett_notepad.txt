@@ -1,0 +1,6 @@
+COPY (select array_to_json(array_agg(row_to_json(t))) from (select * from base_station_antenna) t) TO 'C:\temp\temppppp.txt' CSV;
+
+SET CLIENT_ENCODING TO 'utf8';
+COPY base_station_antenna2(address,location_id,municipality,name,department,latitude,company,longitude,licensing,category) FROM 'C:\Python\web_scraping\antennas_101_150.csv' (DELIMITER('|'));
+
+select count(*) from base_station_antenna2 where company = 'WIND';

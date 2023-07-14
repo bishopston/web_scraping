@@ -1,0 +1,340 @@
+<option style="color:black;" value="Άκτιου - Βόνιτσας">Άκτιου - Βόνιτσας </option>
+<option style="color:black;" value="Ανατολικής Σάμου">Ανατολικής Σάμου </option>
+<option style="color:black;" value="Άνδρου"> Άνδρου </option>
+<option style="color:black;" value="Άργους - Μυκηνών">Άργους - Μυκηνών </option>
+<option style="color:black;" value="Έδεσσας">Έδεσσας </option>
+<option style="color:black;" value="Ήλιδας"> Ήλιδας </option>
+<option style="color:black;" value="Ύδρας"> Ύδρας </option>
+<option style="color:black;" value="Αίγινας">Αίγινας </option>
+<option style="color:black;" value="Αβδήρων">Αβδήρων </option>
+<option style="color:black;" value="Αγίας Βαρβάρας">Αγίας Βαρβάρας </option>
+<option style="color:black;" value="Αγίας Παρασκευής">Αγίας Παρασκευής </option>
+<option style="color:black;" value="Αγίου Βασιλείου">Αγίου Βασιλείου </option>
+<option style="color:black;" value="Αγίου Δημητρίου">Αγίου Δημητρίου </option>
+<option style="color:black;" value="Αγίου Ευστρατίου">Αγίου Ευστρατίου </option>
+<option style="color:black;" value="Αγίου Νικολάου">Αγίου Νικολάου </option>
+<option style="color:black;" value="Αγίων Αναργύρων - Καματερού">Αγίων Αναργύρων - Καματερού </option>
+<option style="color:black;" value="Αγαθονησίου">Αγαθονησίου </option>
+<option style="color:black;" value="Αγιάς"> Αγιάς </option>
+<option style="color:black;" value="Αγκιστρίου">Αγκιστρίου </option>
+<option style="color:black;" value="Αγράφων">Αγράφων </option>
+<option style="color:black;" value="Αγρινίου">Αγρινίου </option>
+<option style="color:black;" value="Αθηναίων">Αθηναίων </option>
+<option style="color:black;" value="Αιγάλεω">Αιγάλεω </option>
+<option style="color:black;" value="Αιγιαλείας">Αιγιαλείας </option>
+<option style="color:black;" value="Αλίμου"> Αλίμου </option>
+<option style="color:black;" value="Αλεξάνδρειας">Αλεξάνδρειας </option>
+<option style="color:black;" value="Αλεξανδρούπολης">Αλεξανδρούπολης </option>
+<option style="color:black;" value="Αλιάρτου">Αλιάρτου </option>
+<option style="color:black;" value="Αλμυρού">Αλμυρού </option>
+<option style="color:black;" value="Αλμωπίας">Αλμωπίας </option>
+<option style="color:black;" value="Αλοννήσου">Αλοννήσου </option>
+<option style="color:black;" value="Αμάριου">Αμάριου </option>
+<option style="color:black;" value="Αμαρουσίου">Αμαρουσίου </option>
+<option style="color:black;" value="Αμοργού">Αμοργού </option>
+<option style="color:black;" value="Αμπελοκήπων - Μενεμένης">Αμπελοκήπων - Μενεμένης </option>
+<option style="color:black;" value="Αμυνταίου">Αμυνταίου </option>
+<option style="color:black;" value="Αμφίκλειας - Ελάτειας">Αμφίκλειας - Ελάτειας </option>
+<option style="color:black;" value="Αμφίπολης">Αμφίπολης </option>
+<option style="color:black;" value="Αμφιλοχίας">Αμφιλοχίας </option>
+<option style="color:black;" value="Ανάφης"> Ανάφης </option>
+<option style="color:black;" value="Ανατολικής Μάνης">Ανατολικής Μάνης </option>
+<option style="color:black;" value="Ανδρίτσαινας - Κρεστένων">Ανδρίτσαινας - Κρεστένων </option>
+<option style="color:black;" value="Ανδραβίδας - Κυλλήνης">Ανδραβίδας - Κυλλήνης </option>
+<option style="color:black;" value="Αντιπάρου">Αντιπάρου </option>
+<option style="color:black;" value="Ανωγείων">Ανωγείων </option>
+<option style="color:black;" value="Αποκορώνου">Αποκορώνου </option>
+<option style="color:black;" value="Αργιθέας">Αργιθέας </option>
+<option style="color:black;" value="Αργοστολίου">Αργοστολίου </option>
+<option style="color:black;" value="Αριστοτέλη">Αριστοτέλη </option>
+<option style="color:black;" value="Αρριανών">Αρριανών </option>
+<option style="color:black;" value="Αρταίων">Αρταίων </option>
+<option style="color:black;" value="Αρχαίας Ολυμπίας">Αρχαίας Ολυμπίας </option>
+<option style="color:black;" value="Αρχανών - Αστερουσίων">Αρχανών - Αστερουσίων </option>
+<option style="color:black;" value="Ασπροπύργου">Ασπροπύργου </option>
+<option style="color:black;" value="Αστυπάλαιας">Αστυπάλαιας </option>
+<option style="color:black;" value="Αχαρνών">Αχαρνών </option>
+<option style="color:black;" value="Βάρης - Βούλας - Βουλιαγμένης">Βάρης - Βούλας - Βουλιαγμένης </option>
+<option style="color:black;" value="Βελβεντού">Βελβεντού  </option>
+<option style="color:black;" value="Βέλου - Βόχας">Βέλου - Βόχας </option>
+<option style="color:black;" value="Βέροιας">Βέροιας </option>
+<option style="color:black;" value="Βιάννου">Βιάννου </option>
+<option style="color:black;" value="Βισαλτίας">Βισαλτίας </option>
+<option style="color:black;" value="Βοΐου"> Βοΐου </option>
+<option style="color:black;" value="Βορείων Τζουμέρκων">Βορείων Τζουμέρκων </option>
+<option style="color:black;" value="Βριλησσίων">Βριλησσίων </option>
+<option style="color:black;" value="Βόλβης"> Βόλβης </option>
+<option style="color:black;" value="Βόλου"> Βόλου </option>
+<option style="color:black;" value="Βόρειας Κυνουρίας">Βόρειας Κυνουρίας </option>
+<option style="color:black;" value="Βύρωνος">Βύρωνος </option>
+<option style="color:black;" value="Γαλατσίου">Γαλατσίου </option>
+<option style="color:black;" value="Γαύδου"> Γαύδου </option>
+<option style="color:black;" value="Γεωργίου Καραϊσκάκη">Γεωργίου Καραϊσκάκη </option>
+<option style="color:black;" value="Γλυφάδας">Γλυφάδας </option>
+<option style="color:black;" value="Γορτυνίας">Γορτυνίας </option>
+<option style="color:black;" value="Γρεβενών">Γρεβενών </option>
+<option style="color:black;" value="Γόρτυνας">Γόρτυνας </option>
+<option style="color:black;" value="Δάφνης - Υμηττού">Δάφνης - Υμηττού </option>
+<option style="color:black;" value="Δέλτα"> Δέλτα </option>
+<option style="color:black;" value="Δίου - Ολύμπου">Δίου - Ολύμπου </option>
+<option style="color:black;" value="Δελφών"> Δελφών </option>
+<option style="color:black;" value="Δεσκάτης">Δεσκάτης </option>
+<option style="color:black;" value="Δήμων Βόρειας Κέρκυρας">Δήμων Βόρειας Κέρκυρας </option>
+<option style="color:black;" value="Διδυμοτείχου">Διδυμοτείχου </option>
+<option style="color:black;" value="Διοίκηση Αγ. Όρους">Διοίκηση Αγ. Όρους </option>
+<option style="color:black;" value="Διονύσου">Διονύσου </option>
+<option style="color:black;" value="Διρφύων - Μεσσαπίων">Διρφύων - Μεσσαπίων </option>
+<option style="color:black;" value="Διστόμου-Αράχοβας - Αντίκυρας">Διστόμου-Αράχοβας - Αντίκυρας </option>
+<option style="color:black;" value="Δομοκού">Δομοκού </option>
+<option style="color:black;" value="Δοξάτου">Δοξάτου </option>
+<option style="color:black;" value="Δράμας"> Δράμας </option>
+<option style="color:black;" value="Δυτικής Αχαΐας">Δυτικής Αχαΐας </option>
+<option style="color:black;" value="Δυτικής Λέσβου">Δυτικής Λέσβου </option>
+<option style="color:black;" value="Δυτικής Μάνης">Δυτικής Μάνης </option>
+<option style="color:black;" value="Δωδώνης">Δωδώνης </option>
+<option style="color:black;" value="Δωρίδος">Δωρίδος </option>
+<option style="color:black;" value="Ελασσόνας">Ελασσόνας </option>
+<option style="color:black;" value="Ελαφονήσου">Ελαφονήσου </option>
+<option style="color:black;" value="Ελευσίνας">Ελευσίνας </option>
+<option style="color:black;" value="Ελληνικού - Αργυρούπολης">Ελληνικού - Αργυρούπολης </option>
+<option style="color:black;" value="Εμμανουήλ Παππά">Εμμανουήλ Παππά </option>
+<option style="color:black;" value="Εορδαίας">Εορδαίας </option>
+<option style="color:black;" value="Επιδαύρου">Επιδαύρου </option>
+<option style="color:black;" value="Ερέτριας">Ερέτριας </option>
+<option style="color:black;" value="Ερμιονίδας">Ερμιονίδας </option>
+<option style="color:black;" value="Ερυμάνθου">Ερυμάνθου </option>
+<option style="color:black;" value="Ευρώτα"> Ευρώτα </option>
+<option style="color:black;" value="Ζίτσας"> Ζίτσας </option>
+<option style="color:black;" value="Ζαγοράς - Μουρεσίου">Ζαγοράς - Μουρεσίου </option>
+<option style="color:black;" value="Ζαγορίου">Ζαγορίου </option>
+<option style="color:black;" value="Ζακύνθου">Ζακύνθου </option>
+<option style="color:black;" value="Ζαχάρως">Ζαχάρως </option>
+<option style="color:black;" value="Ζηρού"> Ζηρού </option>
+<option style="color:black;" value="Ζωγράφου">Ζωγράφου </option>
+<option style="color:black;" value="Ηγουμενίτσας">Ηγουμενίτσας </option>
+<option style="color:black;" value="Ηλιουπόλεως">Ηλιουπόλεως </option>
+<option style="color:black;" value="Ηρακλείας">Ηρακλείας </option>
+<option style="color:black;" value="Ηρακλείου">Ηρακλείου </option>
+<option style="color:black;" value="Ηρακλείου Κρήτης">Ηρακλείου Κρήτης</option>
+<option style="color:black;" value="Θάσου"> Θάσου </option>
+<option style="color:black;" value="Θέρμης"> Θέρμης </option>
+<option style="color:black;" value="Θέρμου"> Θέρμου </option>
+<option style="color:black;" value="Θήρας"> Θήρας </option>
+<option style="color:black;" value="Θερμαϊκού">Θερμαϊκού </option>
+<option style="color:black;" value="Θεσσαλονίκης">Θεσσαλονίκης </option>
+<option style="color:black;" value="Θηβαίων">Θηβαίων </option>
+<option style="color:black;" value="Ιάσμου"> Ιάσμου </option>
+<option style="color:black;" value="Ιεράπετρας">Ιεράπετρας </option>
+<option style="color:black;" value="Ιεράς Πόλης Μεσολογγίου">Ιεράς Πόλης Μεσολογγίου </option>
+<option style="color:black;" value="Ιητών"> Ιητών </option>
+<option style="color:black;" value="Ιθάκης"> Ιθάκης </option>
+<option style="color:black;" value="Ικαρίας">Ικαρίας </option>
+<option style="color:black;" value="Ιλίου"> Ιλίου </option>
+<option style="color:black;" value="Ιστιαίας - Αιδηψού">Ιστιαίας - Αιδηψού </option>
+<option style="color:black;" value="Ιωαννιτών">Ιωαννιτών </option>
+<option style="color:black;" value="Κάσου"> Κάσου </option>
+<option style="color:black;" value="Κάτω Νευροκοπίου">Κάτω Νευροκοπίου </option>
+<option style="color:black;" value="Κέας"> Κέας </option>
+<option style="color:black;" value="Κέρκυρας">Κέρκυρας </option>
+<option style="color:black;" value="Καβάλας">Καβάλας </option>
+<option style="color:black;" value="Καισαριανής">Καισαριανής </option>
+<option style="color:black;" value="Καλαβρύτων">Καλαβρύτων </option>
+<option style="color:black;" value="Καλαμάτας">Καλαμάτας </option>
+<option style="color:black;" value="Καλαμαριάς">Καλαμαριάς </option>
+<option style="color:black;" value="Καλλιθέας">Καλλιθέας </option>
+<option style="color:black;" value="Καλυμνίων">Καλυμνίων </option>
+<option style="color:black;" value="Καμένων Βούρλων">Καμένων Βούρλων </option>
+<option style="color:black;" value="Καντάνου - Σέλινου">Καντάνου - Σέλινου </option>
+<option style="color:black;" value="Καρδίτσας">Καρδίτσας </option>
+<option style="color:black;" value="Καρπάθου">Καρπάθου </option>
+<option style="color:black;" value="Καρπενησίου">Καρπενησίου </option>
+<option style="color:black;" value="Καρύστου">Καρύστου </option>
+<option style="color:black;" value="Κασσάνδρας">Κασσάνδρας </option>
+<option style="color:black;" value="Καστοριάς">Καστοριάς </option>
+<option style="color:black;" value="Κατερίνης">Κατερίνης </option>
+<option style="color:black;" value="Κεντρικής Κέρκυρας και Διαποντίων Νήσων">Κεντρικής Κέρκυρας και Διαποντίων Νήσων </option>
+<option style="color:black;" value="Κεντρικών Τζουμέρκων">Κεντρικών Τζουμέρκων </option>
+<option style="color:black;" value="Κερατσινίου - Δραπετσώνας">Κερατσινίου - Δραπετσώνας </option>
+<option style="color:black;" value="Κεφαλλονιάς">Κεφαλλονιάς </option>
+<option style="color:black;" value="Κηφισιάς">Κηφισιάς </option>
+<option style="color:black;" value="Κιλελέρ">Κιλελέρ </option>
+<option style="color:black;" value="Κιλκίς"> Κιλκίς </option>
+<option style="color:black;" value="Κιμώλου">Κιμώλου </option>
+<option style="color:black;" value="Κισσάμου">Κισσάμου </option>
+<option style="color:black;" value="Κοζάνης">Κοζάνης </option>
+<option style="color:black;" value="Κομοτηνής">Κομοτηνής </option>
+<option style="color:black;" value="Κορδελιού - Ευόσμου">Κορδελιού - Ευόσμου </option>
+<option style="color:black;" value="Κορινθίων">Κορινθίων </option>
+<option style="color:black;" value="Κορυδαλλού">Κορυδαλλού </option>
+<option style="color:black;" value="Κρωπίας">Κρωπίας </option>
+<option style="color:black;" value="Κυθήρων">Κυθήρων </option>
+<option style="color:black;" value="Κω"> Κω </option>
+<option style="color:black;" value="Κόνιτσας">Κόνιτσας </option>
+<option style="color:black;" value="Κύθνου"> Κύθνου </option>
+<option style="color:black;" value="Κύμης - Αλιβερίου">Κύμης - Αλιβερίου </option>
+<option style="color:black;" value="Λέρου"> Λέρου </option>
+<option style="color:black;" value="Λέσβου"> Λέσβου </option>
+<option style="color:black;" value="Λήμνου"> Λήμνου </option>
+<option style="color:black;" value="Λίμνης Πλαστήρα">Λίμνης Πλαστήρα </option>
+<option style="color:black;" value="Λαγκαδά">Λαγκαδά </option>
+<option style="color:black;" value="Λαμιέων">Λαμιέων </option>
+<option style="color:black;" value="Λαρισαίων">Λαρισαίων </option>
+<option style="color:black;" value="Λαυρεωτικής">Λαυρεωτικής </option>
+<option style="color:black;" value="Λεβαδέων">Λεβαδέων </option>
+<option style="color:black;" value="Λειψών"> Λειψών </option>
+<option style="color:black;" value="Λευκάδας">Λευκάδας </option>
+<option style="color:black;" value="Λοκρών"> Λοκρών </option>
+<option style="color:black;" value="Λουτρακίου - Αγ. Θεοδώρων">Λουτρακίου - Αγ. Θεοδώρων </option>
+<option style="color:black;" value="Λυκόβρυσης - Πεύκης">Λυκόβρυσης - Πεύκης </option>
+<option style="color:black;" value="Ληξουρίου">Ληξουρίου </option>
+<option style="color:black;" value="Μάνδρας - Ειδυλλίας">Μάνδρας - Ειδυλλίας </option>
+<option style="color:black;" value="Μήλου"> Μήλου </option>
+<option style="color:black;" value="Μακρακώμης">Μακρακώμης </option>
+<option style="color:black;" value="Μαλεβιζίου">Μαλεβιζίου </option>
+<option style="color:black;" value="Μαντουδίου - Λίμνης - Αγίας Άννας">Μαντουδίου - Λίμνης - Αγίας Άννας</option>
+<option style="color:black;" value="Μαραθώνος">Μαραθώνος </option>
+<option style="color:black;" value="Μαρκοπούλου Μεσογαίας">Μαρκοπούλου Μεσογαίας </option>
+<option style="color:black;" value="Μαρωνείας - Σαπών">Μαρωνείας - Σαπών </option>
+<option style="color:black;" value="Μεγίστης">Μεγίστης </option>
+<option style="color:black;" value="Μεγαλόπολης">Μεγαλόπολης </option>
+<option style="color:black;" value="Μεγανησίου">Μεγανησίου </option>
+<option style="color:black;" value="Μεγαρέων">Μεγαρέων </option>
+<option style="color:black;" value="Μεσσήνης">Μεσσήνης </option>
+<option style="color:black;" value="Μεταμορφώσεως">Μεταμορφώσεως </option>
+<option style="color:black;" value="Μετεώρων">Μετεώρων </option>
+<option style="color:black;" value="Μετσόβου">Μετσόβου </option>
+<option style="color:black;" value="Μινώα Πεδιάδας">Μινώα Πεδιάδας </option>
+<option style="color:black;" value="Μονεμβασιάς">Μονεμβασιάς </option>
+<option style="color:black;" value="Μοσχάτου - Ταύρου">Μοσχάτου - Ταύρου </option>
+<option style="color:black;" value="Μουζακίου">Μουζακίου </option>
+<option style="color:black;" value="Μυκόνου">Μυκόνου </option>
+<option style="color:black;" value="Μυλοποτάμου">Μυλοποτάμου </option>
+<option style="color:black;" value="Μύκης"> Μύκης </option>
+<option style="color:black;" value="Μυτιλήνης">Μυτιλήνης </option>
+<option style="color:black;" value="Νάξου & Μικρών Κυκλάδων">Νάξου & Μικρών Κυκλάδων </option>
+<option style="color:black;" value="Νάουσας">Νάουσας </option>
+<option style="color:black;" value="Νέας Ζίχνης">Νέας Ζίχνης </option>
+<option style="color:black;" value="Νέας Ιωνίας">Νέας Ιωνίας </option>
+<option style="color:black;" value="Νέας Προποντίδας">Νέας Προποντίδας </option>
+<option style="color:black;" value="Νέας Σμύρνης">Νέας Σμύρνης </option>
+<option style="color:black;" value="Νέστου"> Νέστου </option>
+<option style="color:black;" value="Νίκαιας - Αγίου Ι. Ρέντη">Νίκαιας - Αγίου Ι. Ρέντη </option>
+<option style="color:black;" value="Ναυπακτίας">Ναυπακτίας </option>
+<option style="color:black;" value="Ναυπλιέων">Ναυπλιέων </option>
+<option style="color:black;" value="Νεάπολης - Συκεών">Νεάπολης - Συκεών </option>
+<option style="color:black;" value="Νεμέας"> Νεμέας </option>
+<option style="color:black;" value="Νεστορίου">Νεστορίου </option>
+<option style="color:black;" value="Νικολάου Σκουφά">Νικολάου Σκουφά </option>
+<option style="color:black;" value="Νισύρου">Νισύρου </option
+<option style="color:black;" value="Νότιας Κέρκυρας">Νότιας Κέρκυρας </option>>
+<option style="color:black;" value="Νοτίου Πηλίου">Νοτίου Πηλίου </option>
+<option style="color:black;" value="Νότιας Κυνουρίας">Νότιας Κυνουρίας </option>
+<option style="color:black;" value="Ξάνθης"> Ξάνθης </option>
+<option style="color:black;" value="Ξηρομέρου">Ξηρομέρου </option>
+<option style="color:black;" value="Ξυλοκάστρου - Ευρωστίνης">Ξυλοκάστρου - Ευρωστίνης </option>
+<option style="color:black;" value="Οινουσσών">Οινουσσών </option>
+<option style="color:black;" value="Οιχαλίας">Οιχαλίας </option>
+<option style="color:black;" value="Ορεστίδος">Ορεστίδος </option>
+<option style="color:black;" value="Ορεστιάδας">Ορεστιάδας </option>
+<option style="color:black;" value="Οροπεδίου Λασιθίου">Οροπεδίου Λασιθίου </option>
+<option style="color:black;" value="Ορχομενού">Ορχομενού </option>
+<option style="color:black;" value="Πάργας"> Πάργας </option>
+<option style="color:black;" value="Πάρου"> Πάρου </option>
+<option style="color:black;" value="Πάτμου"> Πάτμου </option>
+<option style="color:black;" value="Πέλλας"> Πέλλας </option>
+<option style="color:black;" value="Παγγαίου">Παγγαίου </option>
+<option style="color:black;" value="Παιανίας">Παιανίας </option>
+<option style="color:black;" value="Παιονίας">Παιονίας </option>
+<option style="color:black;" value="Παλαιού Φαλήρου">Παλαιού Φαλήρου </option>
+<option style="color:black;" value="Παλαμά"> Παλαμά </option>
+<option style="color:black;" value="Παλλήνης">Παλλήνης </option>
+<option style="color:black;" value="Παξών"> Παξών </option>
+<option style="color:black;" value="Παπάγου - Χολαργού">Παπάγου - Χολαργού </option>
+<option style="color:black;" value="Παρανεστίου">Παρανεστίου </option>
+<option style="color:black;" value="Πατρέων">Πατρέων </option>
+<option style="color:black;" value="Παύλου Μελά">Παύλου Μελά </option>
+<option style="color:black;" value="Πειραιώς">Πειραιώς </option>
+<option style="color:black;" value="Πεντέλης">Πεντέλης </option>
+<option style="color:black;" value="Περάματος">Περάματος </option>
+<option style="color:black;" value="Περιστερίου">Περιστερίου </option>
+<option style="color:black;" value="Πετρούπολης">Πετρούπολης </option>
+<option style="color:black;" value="Πηνειού">Πηνειού </option>
+<option style="color:black;" value="Πλατανιά">Πλατανιά </option>
+<option style="color:black;" value="Πολυγύρου">Πολυγύρου </option>
+<option style="color:black;" value="Πρέβεζας">Πρέβεζας </option>
+<option style="color:black;" value="Πρεσπών">Πρεσπών </option>
+<option style="color:black;" value="Προσοτσάνης">Προσοτσάνης </option>
+<option style="color:black;" value="Πυλαίας - Χορτιάτη">Πυλαίας - Χορτιάτη </option>
+<option style="color:black;" value="Πωγωνίου">Πωγωνίου </option>
+<option style="color:black;" value="Πόρου"> Πόρου </option>
+<option style="color:black;" value="Πύδνας - Κολινδρού">Πύδνας - Κολινδρού </option>
+<option style="color:black;" value="Πύλης"> Πύλης </option>
+<option style="color:black;" value="Πύλου - Νέστορος">Πύλου - Νέστορος </option>
+<option style="color:black;" value="Πύργου"> Πύργου </option>
+<option style="color:black;" value="Ρήγα Φερραίου">Ρήγα Φερραίου </option>
+<option style="color:black;" value="Ραφήνας - Πικερμίου">Ραφήνας - Πικερμίου </option>
+<option style="color:black;" value="Ρεθύμνης">Ρεθύμνης </option>
+<option style="color:black;" value="Ρόδου"> Ρόδου </option>
+<option style="color:black;" value="Σάμης">Σάμης </option>
+<option style="color:black;" value="Σάμου"> Σάμου </option>
+<option style="color:black;" value="Σίφνου"> Σίφνου </option>
+<option style="color:black;" value="Σαλαμίνας">Σαλαμίνας </option>
+<option style="color:black;" value="Σαμοθράκης">Σαμοθράκης </option>
+<option style="color:black;" value="Σαρωνικού">Σαρωνικού </option>
+<option style="color:black;" value="Σερίφου">Σερίφου </option>
+<option style="color:black;" value="Σερβίων">Σερβίων  </option>
+<option style="color:black;" value="Σερβίων - Βελβεντού">Σερβίων - Βελβεντού </option>
+<option style="color:black;" value="Σερρών"> Σερρών </option>
+<option style="color:black;" value="Σητείας">Σητείας </option>
+<option style="color:black;" value="Σιθωνίας">Σιθωνίας </option>
+<option style="color:black;" value="Σικίνου">Σικίνου </option>
+<option style="color:black;" value="Σικυωνίων">Σικυωνίων </option>
+<option style="color:black;" value="Σιντικής">Σιντικής </option>
+<option style="color:black;" value="Σκιάθου">Σκιάθου </option>
+<option style="color:black;" value="Σκοπέλου">Σκοπέλου </option>
+<option style="color:black;" value="Σκύδρας">Σκύδρας </option>
+<option style="color:black;" value="Σκύρου"> Σκύρου </option>
+<option style="color:black;" value="Σουλίου">Σουλίου </option>
+<option style="color:black;" value="Σουφλίου">Σουφλίου </option>
+<option style="color:black;" value="Σοφάδων">Σοφάδων </option>
+<option style="color:black;" value="Σπάρτης">Σπάρτης </option>
+<option style="color:black;" value="Σπάτων - Αρτέμιδος">Σπάτων - Αρτέμιδος </option>
+<option style="color:black;" value="Σπετσών">Σπετσών </option>
+<option style="color:black;" value="Στυλίδας">Στυλίδας </option>
+<option style="color:black;" value="Σφακίων">Σφακίων </option>
+<option style="color:black;" value="Σύμης"> Σύμης </option>
+<option style="color:black;" value="Σύρου - Ερμούπολης">Σύρου - Ερμούπολης </option>
+<option style="color:black;" value="Τήλου"> Τήλου </option>
+<option style="color:black;" value="Τήνου"> Τήνου </option>
+<option style="color:black;" value="Τανάγρας">Τανάγρας </option>
+<option style="color:black;" value="Τεμπών"> Τεμπών </option>
+<option style="color:black;" value="Τοπείρου">Τοπείρου </option>
+<option style="color:black;" value="Τρίπολης">Τρίπολης </option>
+<option style="color:black;" value="Τρικκαίων">Τρικκαίων </option>
+<option style="color:black;" value="Τριφυλίας">Τριφυλίας </option>
+<option style="color:black;" value="Τροιζηνίας">Τροιζηνίας </option>
+<option style="color:black;" value="Τυρνάβου">Τυρνάβου </option>
+<option style="color:black;" value="Φαιστού">Φαιστού </option>
+<option style="color:black;" value="Φαρκαδόνας">Φαρκαδόνας </option>
+<option style="color:black;" value="Φαρσάλων">Φαρσάλων </option>
+<option style="color:black;" value="Φιλαδελφείας - Χαλκηδόνος">Φιλαδελφείας - Χαλκηδόνος </option>
+<option style="color:black;" value="Φιλιατών">Φιλιατών </option>
+<option style="color:black;" value="Φιλοθέης - Ψυχικού">Φιλοθέης - Ψυχικού </option>
+<option style="color:black;" value="Φλώρινας">Φλώρινας </option>
+<option style="color:black;" value="Φολεγάνδρου">Φολεγάνδρου </option>
+<option style="color:black;" value="Φούρνων Κορσεών">Φούρνων Κορσεών </option>
+<option style="color:black;" value="Φυλής"> Φυλής </option>
+<option style="color:black;" value="Χάλκης"> Χάλκης </option>
+<option style="color:black;" value="Χίου"> Χίου </option>
+<option style="color:black;" value="Χαλανδρίου">Χαλανδρίου </option>
+<option style="color:black;" value="Χαλκηδόνος">Χαλκηδόνος </option>
+<option style="color:black;" value="Χαλκιδέων">Χαλκιδέων </option>
+<option style="color:black;" value="Χανίων"> Χανίων </option>
+<option style="color:black;" value="Χαϊδαρίου">Χαϊδαρίου </option>
+<option style="color:black;" value="Χερσονήσου">Χερσονήσου </option>
+<option style="color:black;" value="Ψαρών"> Ψαρών </option>
+<option style="color:black;" value="Ωραιοκάστρου">Ωραιοκάστρου </option>
+<option style="color:black;" value="Ωρωπού">Ωρωπού </option>
+
+
+COPY (select * from base_station_antenna2) TO 'C:\temp\220322_ANTENNA_EXPORT_b.csv' DELIMITER '|' CSV;
