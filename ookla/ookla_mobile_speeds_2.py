@@ -2,7 +2,7 @@ from datetime import datetime
 import pandas as pd
 from helium import *
 
-from urls import urls
+from urls_get import urls
 
 df = pd.DataFrame(
     columns=[
@@ -31,7 +31,6 @@ for url in urls:
 
     geoarea = url.split("/")
     print(geoarea[-1])
-    print("++++++")
 
     html = browser.page_source
 
@@ -42,12 +41,12 @@ for url in urls:
     lines = file_.readlines()
     cnt = 0
     for i in range(0, len(lines)):
-        if lines[i].find("providerFixedData") != -1:
+        if lines[i].find("providerMobileData") != -1:
             cnt = i
             break
 
     # print(cnt)
-    thrputs = lines[i].strip("  var providerFixedData = ")
+    thrputs = lines[i].strip("  var providerMobileData = ")
 
     thrputs = thrputs.replace(";", "")
     thrputs = thrputs.replace("[", "")
@@ -60,7 +59,6 @@ for url in urls:
     thrputs_list = thrputs.split(",")
 
     print(thrputs_list)
-    print("++++++")
 
     thrputs_list_ = []
 
@@ -76,7 +74,6 @@ for url in urls:
                 thrputs_list_.append(thrputs_list[i][1])
             # print(type(thrputs_list[i][1]))
         print(thrputs_list_)
-        print("++++++")
 
         count = 0
 
@@ -96,9 +93,9 @@ for url in urls:
 
             count = count + 6
 
+
 # print(len(thrputs_list))
 print(thrputs_per_opco)
-print("++++++")
 
 df = df.assign(
     area=thrputs_per_opco["area"],
@@ -111,7 +108,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "C:/Python/web_scraping_2/web_scraping/ookla/fixed_speeds_may23_ath4.csv",
+    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_speeds_may23_ath2.csv",
     index=None,
     sep="|",
     header=False,
