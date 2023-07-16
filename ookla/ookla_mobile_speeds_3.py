@@ -2,10 +2,11 @@ from datetime import datetime
 import pandas as pd
 from helium import *
 
-from urls_get import urls
+from urls_get import urls, country
 
 df = pd.DataFrame(
     columns=[
+        "country",
         "area",
         "service",
         "provider_name",
@@ -16,6 +17,7 @@ df = pd.DataFrame(
     ]
 )
 thrputs_per_opco = {
+    "country": [],
     "area": [],
     "service": [],
     "provider_name": [],
@@ -31,7 +33,6 @@ for url in urls:
 
     geoarea = url.split("/")
     print(geoarea[-1])
-    print("++++++")
 
     html = browser.page_source
 
@@ -42,12 +43,12 @@ for url in urls:
     lines = file_.readlines()
     cnt = 0
     for i in range(0, len(lines)):
-        if lines[i].find("providerFixedData") != -1:
+        if lines[i].find("providerMobileData") != -1:
             cnt = i
             break
 
     # print(cnt)
-    thrputs = lines[i].strip("  var providerFixedData = ")
+    thrputs = lines[i].strip("  var providerMobileData = ")
 
     thrputs = thrputs.replace(";", "")
     thrputs = thrputs.replace("[", "")
@@ -60,7 +61,6 @@ for url in urls:
     thrputs_list = thrputs.split(",")
 
     print(thrputs_list)
-    print("++++++")
 
     thrputs_list_ = []
 
@@ -76,12 +76,12 @@ for url in urls:
                 thrputs_list_.append(thrputs_list[i][1])
             # print(type(thrputs_list[i][1]))
         print(thrputs_list_)
-        print("++++++")
 
         count = 0
 
         while count < len(thrputs_list_):
 
+            thrputs_per_opco["country"].append(country)
             thrputs_per_opco["area"].append(geoarea[-1])
             thrputs_per_opco["service"].append(thrputs_list_[count])
             thrputs_per_opco["provider_name"].append(thrputs_list_[count + 1])
@@ -96,11 +96,12 @@ for url in urls:
 
             count = count + 6
 
+
 # print(len(thrputs_list))
 print(thrputs_per_opco)
-print("++++++")
 
 df = df.assign(
+    country=thrputs_per_opco["country"],
     area=thrputs_per_opco["area"],
     service=thrputs_per_opco["service"],
     provider_name=thrputs_per_opco["provider_name"],
@@ -111,7 +112,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "C:/Python/web_scraping_2/web_scraping/ookla/fixed_speeds_may23.csv",
+    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_speeds_may23.csv",
     index=None,
     sep="|",
     header=False,

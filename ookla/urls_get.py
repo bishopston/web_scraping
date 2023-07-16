@@ -4,6 +4,10 @@ from bs4 import BeautifulSoup
 
 url = "https://www.speedtest.net/performance/greece"
 
+url_split = url.split("/")
+country = url_split[-1]
+print(country)
+
 browser = start_chrome(url, headless=True)
 
 soup = BeautifulSoup(browser.page_source, "html.parser")

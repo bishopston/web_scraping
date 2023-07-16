@@ -2,10 +2,11 @@ from datetime import datetime
 import pandas as pd
 from helium import *
 
-from urls_get import urls
+from urls_get import urls, country
 
 df = pd.DataFrame(
     columns=[
+        "country",
         "area",
         "service",
         "provider_name",
@@ -16,6 +17,7 @@ df = pd.DataFrame(
     ]
 )
 thrputs_per_opco = {
+    "country": [],
     "area": [],
     "service": [],
     "provider_name": [],
@@ -82,6 +84,7 @@ for url in urls:
 
         while count < len(thrputs_list_):
 
+            thrputs_per_opco["country"].append(country)
             thrputs_per_opco["area"].append(geoarea[-1])
             thrputs_per_opco["service"].append(thrputs_list_[count])
             thrputs_per_opco["provider_name"].append(thrputs_list_[count + 1])
@@ -101,6 +104,7 @@ print(thrputs_per_opco)
 print("++++++")
 
 df = df.assign(
+    country=thrputs_per_opco["country"],
     area=thrputs_per_opco["area"],
     service=thrputs_per_opco["service"],
     provider_name=thrputs_per_opco["provider_name"],

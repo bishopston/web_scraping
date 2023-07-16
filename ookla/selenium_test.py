@@ -19,11 +19,15 @@ browser = start_chrome(url, headless=True)
 
 # print(urls)
 
-soup = BeautifulSoup(browser.page_source, "html.parser")
+# soup = BeautifulSoup(browser.page_source, "html.parser")
 
-for li in soup.find_all(class_="performance-place-listing-group"):
-    print('https://www.speedtest.net' + li.a.get('href'))
+# for li in soup.find_all(class_="performance-place-listing-group"):
+#     print('https://www.speedtest.net' + li.a.get('href'))
 
-for li in soup.find_all('li'):
-    if '/performance/greece/' in li.a.get('href'):
-        print('https://www.speedtest.net' + li.a.get('href'))
+# for li in soup.find_all('li'):
+#     if '/performance/greece/' in li.a.get('href'):
+#         print('https://www.speedtest.net' + li.a.get('href'))
+
+url_split = url.split("/")
+country = url_split[-1]
+print(country)
