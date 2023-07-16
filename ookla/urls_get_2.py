@@ -6,7 +6,7 @@ from countries_get import countries
 
 urls = []
 
-for item in countries[:5]:
+for item in countries[:40]:
 
     url_split = item.split("/")
     country = url_split[-1]
@@ -26,3 +26,4 @@ for item in countries[:5]:
             urls.append('https://www.speedtest.net' + li.a.get('href'))
 
 print(urls[:5])
+print(len(urls))

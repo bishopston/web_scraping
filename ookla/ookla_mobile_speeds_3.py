@@ -2,7 +2,7 @@ from datetime import datetime
 import pandas as pd
 from helium import *
 
-from urls_get import urls, country
+from urls_get_2 import urls
 
 df = pd.DataFrame(
     columns=[
@@ -27,7 +27,7 @@ thrputs_per_opco = {
     "p75_download_mbps": [],
 }
 
-for url in urls:
+for url in urls[31:200]:
 
     browser = start_chrome(url, headless=True)
 
@@ -36,7 +36,7 @@ for url in urls:
 
     html = browser.page_source
 
-    with open("saving.txt", "w") as f:
+    with open("saving.txt", "w", encoding="utf-8") as f:
         f.write(html)
 
     file_ = open("saving.txt", "r")
@@ -81,7 +81,7 @@ for url in urls:
 
         while count < len(thrputs_list_):
 
-            thrputs_per_opco["country"].append(country)
+            thrputs_per_opco["country"].append(geoarea[4])
             thrputs_per_opco["area"].append(geoarea[-1])
             thrputs_per_opco["service"].append(thrputs_list_[count])
             thrputs_per_opco["provider_name"].append(thrputs_list_[count + 1])
@@ -112,7 +112,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_speeds_may23.csv",
+    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_speeds_global_may23.csv",
     index=None,
     sep="|",
     header=False,

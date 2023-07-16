@@ -2,7 +2,7 @@ import pandas as pd
 from helium import *
 from bs4 import BeautifulSoup
 
-url = "https://www.speedtest.net/performance/greece"
+url = "https://www.speedtest.net/performance/afghanistan/kabul"
 
 browser = start_chrome(url, headless=True)
 
@@ -29,5 +29,5 @@ browser = start_chrome(url, headless=True)
 #         print('https://www.speedtest.net' + li.a.get('href'))
 
 url_split = url.split("/")
-country = url_split[-1]
-print(country)
+# country = url_split[-1]
+print(url_split)
