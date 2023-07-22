@@ -33,6 +33,8 @@ for item in countries:
     url_per_country.append(stop_index - start_index)
     countries_.append(country)
 
+    browser.quit()
+
 print(urls[:5])
 print(len(urls))
 
