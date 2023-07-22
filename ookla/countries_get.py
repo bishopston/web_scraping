@@ -15,5 +15,7 @@ for li in soup.find_all('li'):
         print('https://www.speedtest.net' + li.a.get('href'))
         countries.append('https://www.speedtest.net' + li.a.get('href'))
 
+browser.quit()
+
 print(countries[:5])
 print(len(countries))

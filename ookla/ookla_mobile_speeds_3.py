@@ -1,6 +1,7 @@
 from datetime import datetime
 import pandas as pd
 from helium import *
+import gc
 
 from urls_get_2 import urls
 
@@ -27,7 +28,7 @@ thrputs_per_opco = {
     "p75_download_mbps": [],
 }
 
-for url in urls[31:200]:
+for url in urls:
 
     browser = start_chrome(url, headless=True)
 
@@ -96,6 +97,9 @@ for url in urls[31:200]:
 
             count = count + 6
 
+    # del browser, geoarea, html, f, file_, lines, cnt, thrputs, thrputs_list, thrputs_list_
+    # gc.collect()
+    browser.quit()
 
 # print(len(thrputs_list))
 print(thrputs_per_opco)
@@ -112,7 +116,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_speeds_global_may23.csv",
+    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_results/mobile_speeds_global_may23_6-8.csv",
     index=None,
     sep="|",
     header=False,
