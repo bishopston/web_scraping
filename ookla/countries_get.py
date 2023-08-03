@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 url = "https://www.speedtest.net/performance"
 
-browser = start_chrome(url, headless=True)
+browser = start_firefox(url, headless=True)
 
 soup = BeautifulSoup(browser.page_source, "html.parser")
 

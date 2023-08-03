@@ -30,14 +30,14 @@ thrputs_per_opco = {
 
 for url in urls:
 
-    browser = start_chrome(url, headless=True)
+    browser = start_firefox(url, headless=True)
 
     geoarea = url.split("/")
     print(geoarea[-1])
 
     html = browser.page_source
 
-    with open("saving.txt", "w", encoding="utf-8") as f:
+    with open("saving.txt", "w", encoding="windows-1250", errors='ignore') as f:
         f.write(html)
 
     file_ = open("saving.txt", "r")
@@ -116,7 +116,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_results/mobile_speeds_global_may23_6-8.csv",
+    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_results/mobile_speeds_global_jun23_16-17.csv",
     index=None,
     sep="|",
     header=False,
