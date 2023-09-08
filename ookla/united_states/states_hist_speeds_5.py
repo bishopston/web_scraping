@@ -34,6 +34,7 @@ for url in urls:
 
     geoarea = url.split("/")
     print(geoarea[-1])
+    print(geoarea[-2])
     print("++++++")
 
     html = browser.page_source
@@ -86,7 +87,7 @@ for url in urls:
 
             while count < len(thrputs_list_):
                 thrputs_per_opco["country"].append(geoarea[4])
-                thrputs_per_opco["area"].append(geoarea[-1])
+                thrputs_per_opco["area"].append(geoarea[-2] + "-" + geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
                 thrputs_per_opco["mobile_median_download_mbps"].append(
                     thrputs_list_[count + 1]
@@ -115,7 +116,7 @@ for url in urls:
 
             while count < len(thrputs_list_):
                 thrputs_per_opco["country"].append(geoarea[4])
-                thrputs_per_opco["area"].append(geoarea[-1])
+                thrputs_per_opco["area"].append(geoarea[-2] + "-" + geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
                 thrputs_per_opco["mobile_median_download_mbps"].append(0)
                 thrputs_per_opco["mobile_median_upload_mbps"].append(0)
@@ -138,7 +139,7 @@ for url in urls:
 
             while count < len(thrputs_list_):
                 thrputs_per_opco["country"].append(geoarea[4])
-                thrputs_per_opco["area"].append(geoarea[-1])
+                thrputs_per_opco["area"].append(geoarea[-2] + "-" + geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
                 thrputs_per_opco["mobile_median_download_mbps"].append(
                     thrputs_list_[count + 1]
