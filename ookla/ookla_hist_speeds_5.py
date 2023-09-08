@@ -2,7 +2,7 @@ from datetime import datetime
 import pandas as pd
 from helium import *
 
-from urls_get_2 import urls, country
+from urls_get_2 import urls
 
 df = pd.DataFrame(
     columns=[
@@ -49,7 +49,6 @@ for url in urls:
             cnt = i
             break
 
-    # print(cnt)
     thrputs = lines[i].strip("  var placeMonthlyData = ")
 
     thrputs = thrputs.replace(";", "")
@@ -81,12 +80,12 @@ for url in urls:
         print(thrputs_list_)
         print("++++++")
 
-        if "mobile" in thrputs_list[1][0] and "fixed" in thrputs_list[1][0]:
-            # print("found")
+        if "mobile" in thrputs_list[1][0] and "fixed" in thrputs_list[5][0]:
+            # print("found a")
             count = 0
 
             while count < len(thrputs_list_):
-                thrputs_per_opco["country"].append(country)
+                thrputs_per_opco["country"].append(geoarea[4])
                 thrputs_per_opco["area"].append(geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
                 thrputs_per_opco["mobile_median_download_mbps"].append(
@@ -110,12 +109,12 @@ for url in urls:
 
                 count = count + 7
 
-        elif "mobile" not in thrputs_list[1][0] and "fixed" in thrputs_list[1][0]:
-            # print("not found")
+        elif "fixed" in thrputs_list[1][0] and "fixed" in thrputs_list[5][0]:
+            # print("found b")
             count = 0
 
             while count < len(thrputs_list_):
-                thrputs_per_opco["country"].append(country)
+                thrputs_per_opco["country"].append(geoarea[4])
                 thrputs_per_opco["area"].append(geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
                 thrputs_per_opco["mobile_median_download_mbps"].append(0)
@@ -133,12 +132,12 @@ for url in urls:
 
                 count = count + 4
 
-        elif "mobile" in thrputs_list[1][0] and "fixed" not in thrputs_list[1][0]:
-            # print("not found")
+        else:
+            # print("found c")
             count = 0
 
             while count < len(thrputs_list_):
-                thrputs_per_opco["country"].append(country)
+                thrputs_per_opco["country"].append(geoarea[4])
                 thrputs_per_opco["area"].append(geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
                 thrputs_per_opco["mobile_median_download_mbps"].append(
@@ -158,10 +157,6 @@ for url in urls:
 
     browser.quit()
 
-# print(len(thrputs_list))
-print(thrputs_per_opco)
-print("++++++")
-
 df = df.assign(
     country=thrputs_per_opco["country"],
     area=thrputs_per_opco["area"],
@@ -175,7 +170,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "/home/alexandros/Python/web_scraping/ookla/hist_results/hist_speeds_jul23_1-20.csv",
+    "/home/alexandros/Python/web_scraping/ookla/hist_results/hist_speeds_jul23_120-end.csv",
     index=None,
     sep="|",
     header=False,
