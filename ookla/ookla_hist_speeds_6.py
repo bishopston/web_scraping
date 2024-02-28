@@ -4,7 +4,7 @@ from helium import *
 
 from urls_get_2 import urls
 
-current_date = "2023-08-01"
+current_date = "2024-01-01"
 
 df = pd.DataFrame(
     columns=[
@@ -178,7 +178,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "/home/alexandros/Python/web_scraping/ookla/hist_results/aug23/hist_speeds_aug23_0-1.csv",
+    "/home/alexandros/Python/web_scraping/ookla/hist_results/jan24/hist_speeds_jan24_0-2.csv",
     index=None,
     sep="|",
     header=False,

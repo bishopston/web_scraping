@@ -14,6 +14,9 @@ df = pd.DataFrame(
         "period",
         "p25_download_mbps",
         "p75_download_mbps",
+        "p50_download_mbps",
+        "p50_upload_mbps",
+        "p50_multiserver_latency_ms",
     ]
 )
 thrputs_per_opco = {
@@ -25,15 +28,16 @@ thrputs_per_opco = {
     "period": [],
     "p25_download_mbps": [],
     "p75_download_mbps": [],
+    "p50_download_mbps": [],
+    "p50_upload_mbps": [],
+    "p50_multiserver_latency_ms": [],
 }
 
 for url in urls:
-
     browser = start_firefox(url, headless=True)
 
     geoarea = url.split("/")
     print(geoarea[-1])
-    print("++++++")
 
     html = browser.page_source
 
@@ -62,31 +66,31 @@ for url in urls:
     thrputs_list = thrputs.split(",")
 
     print(thrputs_list)
-    print("++++++")
 
     thrputs_list_ = []
 
     if len(thrputs_list) > 1:
-
         for i in range(len(thrputs_list)):
-
             if ":" in thrputs_list[i]:
-
                 thrputs_list[i] = thrputs_list[i].split(":")
 
                 if "download" in thrputs_list[i][0]:
                     thrputs_list[i][1] = float(thrputs_list[i][1])
                     thrputs_list_.append(thrputs_list[i][1])
+                elif"upload" in thrputs_list[i][0]:
+                    thrputs_list[i][1] = float(thrputs_list[i][1])
+                    thrputs_list_.append(thrputs_list[i][1])
+                elif"latency" in thrputs_list[i][0]:
+                    thrputs_list[i][1] = float(thrputs_list[i][1])
+                    thrputs_list_.append(thrputs_list[i][1])
                 else:
                     thrputs_list_.append(thrputs_list[i][1])
-
+                # print(type(thrputs_list[i][1]))
         print(thrputs_list_)
-        print("++++++")
 
         count = 0
 
         while count < len(thrputs_list_):
-
             thrputs_per_opco["country"].append(geoarea[4])
             thrputs_per_opco["area"].append(geoarea[-1])
             thrputs_per_opco["service"].append(thrputs_list_[count])
@@ -99,9 +103,20 @@ for url in urls:
             thrputs_per_opco["p75_download_mbps"].append(
                 float(thrputs_list_[count + 5])
             )
+            thrputs_per_opco["p50_download_mbps"].append(
+                float(thrputs_list_[count + 6])
+            )
+            thrputs_per_opco["p50_upload_mbps"].append(
+                float(thrputs_list_[count + 7])
+            )
+            thrputs_per_opco["p50_multiserver_latency_ms"].append(
+                float(thrputs_list_[count + 8])
+            )
 
-            count = count + 6
+            count = count + 9
 
+    # del browser, geoarea, html, f, file_, lines, cnt, thrputs, thrputs_list, thrputs_list_
+    # gc.collect()
     browser.quit()
 
 # print(len(thrputs_list))
@@ -117,10 +132,13 @@ df = df.assign(
     period=thrputs_per_opco["period"],
     p25_download_mbps=thrputs_per_opco["p25_download_mbps"],
     p75_download_mbps=thrputs_per_opco["p75_download_mbps"],
+    p50_download_mbps=thrputs_per_opco["p50_download_mbps"],
+    p50_upload_mbps=thrputs_per_opco["p50_upload_mbps"],
+    p50_multiserver_latency_ms=thrputs_per_opco["p50_multiserver_latency_ms"],
 )
 
 df.to_csv(
-    "/home/alexandros/Python/web_scraping/ookla/mobile_results/fixed_speeds_global_jun23_130-end.csv",
+    "/home/alexandros/Python/web_scraping/ookla/mobile_results/dec23/fixed_speeds_global_dec23_130-end.csv",
     index=None,
     sep="|",
     header=False,

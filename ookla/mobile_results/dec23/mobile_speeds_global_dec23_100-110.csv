@@ -1,0 +1,652 @@
+mexico|aguascalientes|mobile|ALTAN Redes|4234|2023-10-01|8.93|33.08|18.89|13.15|95.56
+mexico|aguascalientes|mobile|AT&T|3983|2023-10-01|12.8|68.83|34.63|11.38|77.9
+mexico|aguascalientes|mobile|Movistar|3984|2023-10-01|15.32|52.36|27.97|11.52|95.01
+mexico|aguascalientes|mobile|Telcel|2830|2023-10-01|20.44|115.47|46.93|13.01|91.57
+mexico|baja-california|mobile|ALTAN Redes|4234|2023-10-01|6.95|28.58|15.38|5.18|102.55
+mexico|baja-california|mobile|AT&T|3983|2023-10-01|5.44|42.85|22.13|7.11|45.57
+mexico|baja-california|mobile|Movistar|3984|2023-10-01|10.14|52.03|26.56|9.93|116.4
+mexico|baja-california|mobile|Telcel|2830|2023-10-01|20.34|132.96|52.38|15.17|57.63
+mexico|baja-california-sur|mobile|ALTAN Redes|4234|2023-10-01|0.28|5.83|1.91|1.28|164.52
+mexico|baja-california-sur|mobile|AT&T|3983|2023-10-01|8.04|64.03|28.95|5.64|116.93
+mexico|baja-california-sur|mobile|Movistar|3984|2023-10-01|14.57|62.3|34.63|8.62|124.09
+mexico|baja-california-sur|mobile|Telcel|2830|2023-10-01|17.69|134.35|47.85|12.55|84.65
+mexico|campeche|mobile|ALTAN Redes|4234|2023-10-01|3.25|24.73|11.84|7.38|138.99
+mexico|campeche|mobile|AT&T|3983|2023-10-01|9.13|59.51|25.2|8.34|107.21
+mexico|campeche|mobile|Movistar|3984|2023-10-01|10.72|44.98|27.11|10.06|115.1
+mexico|campeche|mobile|Telcel|2830|2023-10-01|24.14|119.99|54.69|15.16|96.94
+mexico|chiapas|mobile|ALTAN Redes|4234|2023-10-01|1.94|14.64|5.7|8.76|150.31
+mexico|chiapas|mobile|AT&T|3983|2023-10-01|3.84|54.93|20.47|5.94|128.31
+mexico|chiapas|mobile|Telcel|2830|2023-10-01|17.53|94.76|41.82|15.01|119.4
+mexico|chihuahua|mobile|ALTAN Redes|4234|2023-10-01|7.49|32.2|17.24|5.99|97.63
+mexico|chihuahua|mobile|AT&T|3983|2023-10-01|4.15|41.81|17.84|6.32|81.83
+mexico|chihuahua|mobile|Movistar|3984|2023-10-01|5.66|31.61|14.56|8.96|107.13
+mexico|chihuahua|mobile|Telcel|2830|2023-10-01|20.54|151.36|52.54|13.86|80.76
+mexico|coahuila|mobile|ALTAN Redes|4234|2023-10-01|5.69|33.44|17.21|7.58|73.36
+mexico|coahuila|mobile|AT&T|3983|2023-10-01|7.83|64.59|28.13|7.75|57.15
+mexico|coahuila|mobile|Movistar|3984|2023-10-01|12.06|53.45|30.2|9.94|72.66
+mexico|coahuila|mobile|Telcel|2830|2023-10-01|20.59|105.81|46.08|14.02|54.43
+mexico|colima|mobile|ALTAN Redes|4234|2023-10-01|3.01|24.54|10.93|6.57|113.97
+mexico|colima|mobile|AT&T|3983|2023-10-01|6.89|47.12|20.01|9.25|76.99
+mexico|colima|mobile|Movistar|3984|2023-10-01|7.44|57.33|24.74|13.4|75.06
+mexico|colima|mobile|Telcel|2830|2023-10-01|23.17|156.71|64.45|12.86|69.58
+mexico|durango|mobile|ALTAN Redes|4234|2023-10-01|4.76|34.67|16.79|7.56|83.85
+mexico|durango|mobile|AT&T|3983|2023-10-01|3.94|57.16|24.28|7.59|96.25
+mexico|durango|mobile|Movistar|3984|2023-10-01|12.31|53.94|33.65|9.58|78.43
+mexico|durango|mobile|Telcel|2830|2023-10-01|20.55|114.75|48.19|13.87|60.14
+mexico|federal-district|mobile|ALTAN Redes|4234|2023-10-01|3.07|20.24|9.05|9.41|93.21
+mexico|federal-district|mobile|AT&T|3983|2023-10-01|5.03|48.6|19.58|7.24|51.28
+mexico|federal-district|mobile|Movistar|3984|2023-10-01|5.82|42.43|18.28|10.38|64.06
+mexico|federal-district|mobile|Telcel|2830|2023-10-01|25.65|186.95|71.44|14.5|50.61
+mexico|guanajuato|mobile|ALTAN Redes|4234|2023-10-01|3.7|25.27|11.38|11.02|94.82
+mexico|guanajuato|mobile|AT&T|3983|2023-10-01|9.05|53.4|27.23|10.7|62.97
+mexico|guanajuato|mobile|Movistar|3984|2023-10-01|11.21|50.06|26.38|12.83|75.59
+mexico|guanajuato|mobile|Telcel|2830|2023-10-01|19.78|126.87|49.72|13.36|75.8
+mexico|guerrero|mobile|ALTAN Redes|4234|2023-10-01|1.87|13.91|6.0|4.11|124.48
+mexico|guerrero|mobile|AT&T|3983|2023-10-01|2.75|27.18|10.04|5.08|72.33
+mexico|guerrero|mobile|Movistar|3984|2023-10-01|0.89|14.1|4.08|1.94|85.04
+mexico|guerrero|mobile|Telcel|2830|2023-10-01|8.42|80.34|27.67|12.05|66.86
+mexico|hidalgo|mobile|ALTAN Redes|4234|2023-10-01|1.86|15.77|6.19|5.68|102.52
+mexico|hidalgo|mobile|AT&T|3983|2023-10-01|2.81|31.18|12.28|4.16|60.22
+mexico|hidalgo|mobile|Movistar|3984|2023-10-01|4.15|26.69|12.18|6.86|70.02
+mexico|hidalgo|mobile|Telcel|2830|2023-10-01|12.61|83.48|33.55|8.16|61.14
+mexico|jalisco|mobile|ALTAN Redes|4234|2023-10-01|6.08|29.88|15.34|9.06|100.84
+mexico|jalisco|mobile|AT&T|3983|2023-10-01|6.76|56.29|25.35|7.67|67.2
+mexico|jalisco|mobile|Movistar|3984|2023-10-01|8.28|53.86|23.44|8.95|74.32
+mexico|jalisco|mobile|Telcel|2830|2023-10-01|22.8|164.49|60.82|15.61|55.59
+mexico|michoacan|mobile|ALTAN Redes|4234|2023-10-01|2.53|19.45|8.1|4.83|104.99
+mexico|michoacan|mobile|AT&T|3983|2023-10-01|5.15|57.68|23.68|9.58|92.29
+mexico|michoacan|mobile|Movistar|3984|2023-10-01|5.31|38.47|19.55|7.9|78.22
+mexico|michoacan|mobile|Telcel|2830|2023-10-01|21.76|130.57|51.46|14.26|68.51
+mexico|morelos|mobile|ALTAN Redes|4234|2023-10-01|3.5|27.9|12.29|10.2|93.54
+mexico|morelos|mobile|AT&T|3983|2023-10-01|3.68|41.59|16.49|4.46|63.2
+mexico|morelos|mobile|Movistar|3984|2023-10-01|4.49|31.7|14.71|6.9|63.77
+mexico|morelos|mobile|Telcel|2830|2023-10-01|20.21|115.4|47.51|10.34|38.83
+mexico|nayarit|mobile|ALTAN Redes|4234|2023-10-01|3.04|24.63|11.37|6.94|112.83
+mexico|nayarit|mobile|AT&T|3983|2023-10-01|2.69|38.14|11.87|5.46|82.83
+mexico|nayarit|mobile|Movistar|3984|2023-10-01|2.63|37.84|13.96|7.76|78.18
+mexico|nayarit|mobile|Telcel|2830|2023-10-01|19.24|122.73|53.34|14.5|66.32
+mexico|nuevo-leon|mobile|ALTAN Redes|4234|2023-10-01|8.27|34.58|19.35|8.92|64.09
+mexico|nuevo-leon|mobile|AT&T|3983|2023-10-01|7.74|61.13|28.12|7.75|42.88
+mexico|nuevo-leon|mobile|Movistar|3984|2023-10-01|12.63|56.63|29.72|10.65|65.88
+mexico|nuevo-leon|mobile|Telcel|2830|2023-10-01|19.9|182.35|56.81|12.01|48.05
+mexico|oaxaca|mobile|ALTAN Redes|4234|2023-10-01|2.67|15.62|6.73|5.86|120.6
+mexico|oaxaca|mobile|AT&T|3983|2023-10-01|1.66|34.04|9.84|3.88|90.2
+mexico|oaxaca|mobile|Telcel|2830|2023-10-01|11.76|81.0|33.14|12.22|73.9
+mexico|puebla|mobile|ALTAN Redes|4234|2023-10-01|2.77|20.54|8.81|8.54|96.98
+mexico|puebla|mobile|AT&T|3983|2023-10-01|3.6|40.16|16.99|7.16|72.9
+mexico|puebla|mobile|Movistar|3984|2023-10-01|6.77|36.13|17.06|8.41|71.3
+mexico|puebla|mobile|Telcel|2830|2023-10-01|16.16|99.82|41.34|14.71|51.65
+mexico|queretaro|mobile|ALTAN Redes|4234|2023-10-01|3.19|23.72|10.63|12.38|86.89
+mexico|queretaro|mobile|AT&T|3983|2023-10-01|4.39|46.52|19.08|8.79|90.01
+mexico|queretaro|mobile|Movistar|3984|2023-10-01|8.25|39.73|20.34|10.98|76.62
+mexico|queretaro|mobile|Telcel|2830|2023-10-01|18.03|138.85|51.12|13.41|74.7
+mexico|quintana-roo|mobile|ALTAN Redes|4234|2023-10-01|2.9|22.49|9.49|10.14|83.08
+mexico|quintana-roo|mobile|AT&T|3983|2023-10-01|6.61|50.02|22.67|6.32|120.22
+mexico|quintana-roo|mobile|Movistar|3984|2023-10-01|8.63|48.58|27.31|7.52|124.81
+mexico|quintana-roo|mobile|Telcel|2830|2023-10-01|17.65|118.88|46.64|13.31|71.97
+mexico|san-luis-potosi|mobile|ALTAN Redes|4234|2023-10-01|2.39|25.6|11.38|7.53|93.94
+mexico|san-luis-potosi|mobile|AT&T|3983|2023-10-01|7.79|51.69|24.99|6.82|97.51
+mexico|san-luis-potosi|mobile|Movistar|3984|2023-10-01|7.87|46.28|24.45|9.45|92.78
+mexico|san-luis-potosi|mobile|Telcel|2830|2023-10-01|20.18|122.87|49.28|12.91|94.04
+mexico|sinaloa|mobile|ALTAN Redes|4234|2023-10-01|6.93|29.6|16.81|7.75|86.74
+mexico|sinaloa|mobile|AT&T|3983|2023-10-01|3.23|66.77|26.53|5.22|102.6
+mexico|sinaloa|mobile|Movistar|3984|2023-10-01|9.48|63.99|33.21|7.06|101.88
+mexico|sinaloa|mobile|Telcel|2830|2023-10-01|26.78|157.24|61.91|14.0|70.19
+mexico|sonora|mobile|ALTAN Redes|4234|2023-10-01|3.82|33.21|15.35|6.23|85.82
+mexico|sonora|mobile|AT&T|3983|2023-10-01|10.82|68.83|31.21|6.74|81.78
+mexico|sonora|mobile|Movistar|3984|2023-10-01|8.11|56.74|29.31|8.35|111.42
+mexico|sonora|mobile|Telcel|2830|2023-10-01|27.42|167.19|64.16|16.4|55.87
+mexico|state-of-mexico|mobile|ALTAN Redes|4234|2023-10-01|2.67|18.63|8.3|12.08|92.44
+mexico|state-of-mexico|mobile|AT&T|3983|2023-10-01|3.15|36.24|15.22|6.52|57.53
+mexico|state-of-mexico|mobile|Movistar|3984|2023-10-01|4.67|34.08|14.29|9.28|64.46
+mexico|state-of-mexico|mobile|Telcel|2830|2023-10-01|18.92|107.1|45.29|10.76|41.54
+mexico|state-of-mexico|mobile|Unefón|3988|2023-10-01|0.89|2.93|2.64|2.01|59.75
+mexico|tabasco|mobile|ALTAN Redes|4234|2023-10-01|2.62|24.43|9.32|5.26|150.6
+mexico|tabasco|mobile|AT&T|3983|2023-10-01|3.49|52.77|24.49|7.63|113.45
+mexico|tabasco|mobile|Movistar|3984|2023-10-01|7.6|47.98|24.57|8.5|98.25
+mexico|tabasco|mobile|Telcel|2830|2023-10-01|21.79|113.6|51.3|16.3|108.78
+mexico|tamaulipas|mobile|ALTAN Redes|4234|2023-10-01|1.28|19.92|6.75|3.66|91.73
+mexico|tamaulipas|mobile|AT&T|3983|2023-10-01|5.43|44.45|19.16|8.14|60.6
+mexico|tamaulipas|mobile|Movistar|3984|2023-10-01|8.49|36.32|18.65|10.71|74.78
+mexico|tamaulipas|mobile|Telcel|2830|2023-10-01|18.94|133.32|46.08|14.03|64.54
+mexico|tamaulipas|mobile|Unefón|3988|2023-10-01|0.66|3.01|2.61|2.06|56.22
+mexico|tlaxcala|mobile|ALTAN Redes|4234|2023-10-01|0.9|7.5|3.27|3.07|113.6
+mexico|tlaxcala|mobile|AT&T|3983|2023-10-01|1.96|26.02|8.22|5.25|72.45
+mexico|tlaxcala|mobile|Movistar|3984|2023-10-01|2.75|21.93|8.95|6.13|75.73
+mexico|tlaxcala|mobile|Telcel|2830|2023-10-01|18.55|90.53|43.11|16.52|48.04
+mexico|veracruz|mobile|ALTAN Redes|4234|2023-10-01|2.84|23.4|9.57|7.83|110.09
+mexico|veracruz|mobile|AT&T|3983|2023-10-01|4.51|44.49|18.43|6.3|82.65
+mexico|veracruz|mobile|Movistar|3984|2023-10-01|6.34|37.14|16.6|8.49|91.42
+mexico|veracruz|mobile|Telcel|2830|2023-10-01|17.79|97.7|44.18|13.17|73.75
+mexico|yucatan|mobile|ALTAN Redes|4234|2023-10-01|6.03|33.16|17.36|12.84|122.0
+mexico|yucatan|mobile|AT&T|3983|2023-10-01|8.44|55.12|28.52|6.83|108.59
+mexico|yucatan|mobile|Movistar|3984|2023-10-01|12.23|46.12|27.56|9.01|108.96
+mexico|yucatan|mobile|Telcel|2830|2023-10-01|21.71|138.88|53.35|12.7|83.46
+mexico|zacatecas|mobile|ALTAN Redes|4234|2023-10-01|2.9|17.65|7.21|4.01|130.28
+mexico|zacatecas|mobile|AT&T|3983|2023-10-01|4.15|43.97|18.23|6.2|112.27
+mexico|zacatecas|mobile|Movistar|3984|2023-10-01|9.46|33.29|20.37|9.39|95.73
+mexico|zacatecas|mobile|Telcel|2830|2023-10-01|11.43|65.39|28.86|11.79|89.59
+mexico|aguascalientes|mobile|ALTAN Redes|4234|2023-10-01|10.39|36.91|21.47|16.0|93.2
+mexico|aguascalientes|mobile|AT&T|3983|2023-10-01|17.49|80.54|40.58|13.95|76.87
+mexico|aguascalientes|mobile|Movistar|3984|2023-10-01|11.91|48.76|25.51|10.99|95.43
+mexico|aguascalientes|mobile|Telcel|2830|2023-10-01|22.16|156.44|55.1|14.6|90.5
+mexico|mexicali|mobile|ALTAN Redes|4234|2023-10-01|7.14|31.06|16.36|4.19|92.01
+mexico|mexicali|mobile|AT&T|3983|2023-10-01|9.6|43.23|24.52|8.58|55.52
+mexico|mexicali|mobile|Movistar|3984|2023-10-01|13.02|52.59|30.89|9.8|135.32
+mexico|mexicali|mobile|Telcel|2830|2023-10-01|22.6|155.9|62.48|15.96|63.53
+mexico|tijuana|mobile|ALTAN Redes|4234|2023-10-01|7.09|27.82|15.63|5.81|102.1
+mexico|tijuana|mobile|AT&T|3983|2023-10-01|4.12|39.04|18.41|7.11|42.06
+mexico|tijuana|mobile|Movistar|3984|2023-10-01|7.84|46.41|22.34|9.61|121.25
+mexico|tijuana|mobile|Telcel|2830|2023-10-01|17.32|152.78|51.79|15.58|55.87
+mexico|tijuana|mobile|Unefón|3988|2023-10-01|1.32|2.97|2.84|2.64|39.33
+mexico|campeche|mobile|ALTAN Redes|4234|2023-10-01|2.87|29.45|12.64|8.24|125.82
+mexico|campeche|mobile|AT&T|3983|2023-10-01|8.87|59.26|21.18|8.97|101.69
+mexico|campeche|mobile|Movistar|3984|2023-10-01|10.72|40.47|23.74|9.13|117.36
+mexico|campeche|mobile|Telcel|2830|2023-10-01|25.48|151.66|59.78|12.49|78.17
+mexico|ciudad-del-carmen|mobile|ALTAN Redes|4234|2023-10-01|3.73|25.0|10.73|9.96|141.26
+mexico|ciudad-del-carmen|mobile|AT&T|3983|2023-10-01|11.82|70.13|25.87|11.53|109.19
+mexico|ciudad-del-carmen|mobile|Telcel|2830|2023-10-01|29.81|131.25|64.17|14.88|118.06
+mexico|tuxtla-gutierrez|mobile|ALTAN Redes|4234|2023-10-01|3.21|22.34|9.72|14.65|145.99
+mexico|tuxtla-gutierrez|mobile|AT&T|3983|2023-10-01|9.8|68.4|29.64|8.81|111.21
+mexico|tuxtla-gutierrez|mobile|Telcel|2830|2023-10-01|25.87|167.33|65.15|17.56|111.72
+mexico|chihuahua|mobile|ALTAN Redes|4234|2023-10-01|16.98|42.01|27.59|14.6|96.92
+mexico|chihuahua|mobile|AT&T|3983|2023-10-01|6.35|40.16|24.28|8.99|73.19
+mexico|chihuahua|mobile|Movistar|3984|2023-10-01|6.71|32.3|15.19|11.72|97.65
+mexico|chihuahua|mobile|Telcel|2830|2023-10-01|30.4|238.06|76.07|17.92|73.53
+mexico|ciudad-juarez|mobile|ALTAN Redes|4234|2023-10-01|8.37|26.24|15.41|4.43|86.44
+mexico|ciudad-juarez|mobile|AT&T|3983|2023-10-01|4.01|38.51|15.32|5.33|84.31
+mexico|ciudad-juarez|mobile|Movistar|3984|2023-10-01|5.04|31.37|12.14|7.71|115.81
+mexico|ciudad-juarez|mobile|Telcel|2830|2023-10-01|18.23|202.1|51.51|14.7|83.56
+mexico|saltillo|mobile|ALTAN Redes|4234|2023-10-01|8.86|40.73|21.64|9.08|49.18
+mexico|saltillo|mobile|AT&T|3983|2023-10-01|15.62|79.84|42.31|12.81|39.32
+mexico|saltillo|mobile|Movistar|3984|2023-10-01|11.84|56.59|28.12|8.89|67.8
+mexico|saltillo|mobile|Telcel|2830|2023-10-01|18.39|91.73|40.35|11.63|45.64
+mexico|torreon|mobile|ALTAN Redes|4234|2023-10-01|13.74|37.29|24.63|17.1|73.54
+mexico|torreon|mobile|AT&T|3983|2023-10-01|6.42|68.97|32.34|10.81|60.75
+mexico|torreon|mobile|Movistar|3984|2023-10-01|13.02|66.23|32.21|13.77|72.94
+mexico|torreon|mobile|Telcel|2830|2023-10-01|31.46|217.11|72.59|18.61|48.74
+mexico|durango|mobile|ALTAN Redes|4234|2023-10-01|13.73|41.45|25.59|8.44|80.24
+mexico|durango|mobile|AT&T|3983|2023-10-01|7.92|60.7|29.59|9.63|96.65
+mexico|durango|mobile|Movistar|3984|2023-10-01|9.01|53.94|33.23|12.94|80.38
+mexico|durango|mobile|Telcel|2830|2023-10-01|26.85|169.25|58.8|15.95|59.98
+mexico|mexico-city|mobile|ALTAN Redes|4234|2023-10-01|3.03|19.59|8.82|9.28|93.45
+mexico|mexico-city|mobile|AT&T|3983|2023-10-01|5.09|48.83|19.62|7.23|51.2
+mexico|mexico-city|mobile|Movistar|3984|2023-10-01|5.99|42.62|18.44|10.72|63.81
+mexico|mexico-city|mobile|Telcel|2830|2023-10-01|25.83|187.92|72.01|14.58|50.7
+mexico|celaya|mobile|ALTAN Redes|4234|2023-10-01|9.69|36.42|21.03|14.75|81.68
+mexico|celaya|mobile|AT&T|3983|2023-10-01|10.64|65.03|29.83|9.98|77.02
+mexico|celaya|mobile|Movistar|3984|2023-10-01|17.73|58.78|35.98|12.51|75.21
+mexico|celaya|mobile|Telcel|2830|2023-10-01|29.64|170.44|71.55|14.13|62.67
+mexico|irapuato|mobile|ALTAN Redes|4234|2023-10-01|16.47|50.85|29.54|15.28|89.18
+mexico|irapuato|mobile|AT&T|3983|2023-10-01|12.29|60.34|36.75|11.45|45.77
+mexico|irapuato|mobile|Movistar|3984|2023-10-01|16.8|67.15|36.1|18.31|72.66
+mexico|irapuato|mobile|Telcel|2830|2023-10-01|26.0|184.7|64.3|16.81|75.2
+mexico|leon|mobile|ALTAN Redes|4234|2023-10-01|5.58|25.64|14.04|15.43|92.96
+mexico|leon|mobile|AT&T|3983|2023-10-01|10.0|59.87|28.65|12.88|55.68
+mexico|leon|mobile|Movistar|3984|2023-10-01|12.19|55.15|30.26|13.87|74.52
+mexico|leon|mobile|Telcel|2830|2023-10-01|26.64|215.41|69.97|16.92|78.28
+mexico|acapulco|mobile|ALTAN Redes|4234|2023-10-01|1.58|12.88|5.23|3.21|143.45
+mexico|acapulco|mobile|AT&T|3983|2023-10-01|2.98|28.04|9.99|5.08|57.26
+mexico|acapulco|mobile|Movistar|3984|2023-10-01|0.96|23.27|11.4|3.5|77.75
+mexico|acapulco|mobile|Telcel|2830|2023-10-01|5.44|85.93|20.94|10.28|64.88
+mexico|pachuca|mobile|ALTAN Redes|4234|2023-10-01|5.14|27.51|14.07|11.0|93.21
+mexico|pachuca|mobile|AT&T|3983|2023-10-01|2.85|38.21|11.78|4.41|55.94
+mexico|pachuca|mobile|Movistar|3984|2023-10-01|6.03|26.42|14.48|6.38|63.86
+mexico|pachuca|mobile|Telcel|2830|2023-10-01|16.12|103.32|39.19|11.7|58.06
+mexico|guadalajara|mobile|ALTAN Redes|4234|2023-10-01|8.51|35.67|19.13|11.12|98.85
+mexico|guadalajara|mobile|AT&T|3983|2023-10-01|8.21|65.96|29.59|8.64|64.28
+mexico|guadalajara|mobile|Movistar|3984|2023-10-01|14.78|70.82|35.73|10.82|72.22
+mexico|guadalajara|mobile|Telcel|2830|2023-10-01|24.52|205.11|73.43|17.05|54.46
+mexico|guadalajara|mobile|Unefón|3988|2023-10-01|0.78|2.91|2.55|1.93|63.54
+mexico|puerto-vallarta|mobile|ALTAN Redes|4234|2023-10-01|2.67|21.27|8.69|5.73|112.86
+mexico|puerto-vallarta|mobile|AT&T|3983|2023-10-01|2.52|25.5|9.8|7.19|67.77
+mexico|puerto-vallarta|mobile|Movistar|3984|2023-10-01|6.95|24.25|15.37|7.92|74.96
+mexico|puerto-vallarta|mobile|Telcel|2830|2023-10-01|22.39|190.94|67.1|14.21|59.8
+mexico|tlaquepaque|mobile|ALTAN Redes|4234|2023-10-01|7.36|33.12|17.83|12.98|98.46
+mexico|tlaquepaque|mobile|AT&T|3983|2023-10-01|5.03|50.56|21.23|8.06|60.42
+mexico|tlaquepaque|mobile|Movistar|3984|2023-10-01|5.81|34.82|13.78|6.28|71.42
+mexico|tlaquepaque|mobile|Telcel|2830|2023-10-01|25.52|160.07|74.25|17.83|49.34
+mexico|tonala|mobile|ALTAN Redes|4234|2023-10-01|7.74|33.82|16.24|13.26|99.24
+mexico|tonala|mobile|AT&T|3983|2023-10-01|3.27|35.94|12.91|5.55|81.09
+mexico|tonala|mobile|Movistar|3984|2023-10-01|4.13|41.92|23.54|7.09|74.17
+mexico|tonala|mobile|Telcel|2830|2023-10-01|18.43|99.73|40.08|15.42|53.96
+mexico|zapopan|mobile|ALTAN Redes|4234|2023-10-01|8.68|38.3|21.73|11.91|96.33
+mexico|zapopan|mobile|AT&T|3983|2023-10-01|8.84|66.99|29.91|8.75|61.77
+mexico|zapopan|mobile|Movistar|3984|2023-10-01|11.65|77.64|34.24|10.87|71.06
+mexico|zapopan|mobile|Telcel|2830|2023-10-01|28.68|231.12|86.07|17.77|45.19
+mexico|morelia|mobile|ALTAN Redes|4234|2023-10-01|6.69|27.46|15.61|9.94|90.24
+mexico|morelia|mobile|AT&T|3983|2023-10-01|10.1|76.58|38.1|14.35|78.94
+mexico|morelia|mobile|Movistar|3984|2023-10-01|9.19|57.31|26.65|9.41|73.51
+mexico|morelia|mobile|Telcel|2830|2023-10-01|29.91|242.25|79.08|15.6|62.32
+mexico|cuernavaca|mobile|ALTAN Redes|4234|2023-10-01|11.53|38.67|23.02|17.9|88.41
+mexico|cuernavaca|mobile|AT&T|3983|2023-10-01|8.91|44.79|23.23|7.3|59.44
+mexico|cuernavaca|mobile|Movistar|3984|2023-10-01|5.16|36.6|17.24|7.01|58.72
+mexico|cuernavaca|mobile|Telcel|2830|2023-10-01|26.53|160.37|64.97|13.66|37.04
+mexico|tepic|mobile|ALTAN Redes|4234|2023-10-01|12.6|41.56|23.34|15.43|109.74
+mexico|tepic|mobile|AT&T|3983|2023-10-01|2.83|30.95|7.15|4.47|77.46
+mexico|tepic|mobile|Telcel|2830|2023-10-01|30.15|212.52|83.67|19.15|63.04
+mexico|apodaca|mobile|ALTAN Redes|4234|2023-10-01|11.51|40.9|23.04|9.37|57.88
+mexico|apodaca|mobile|AT&T|3983|2023-10-01|7.44|69.01|29.1|6.94|38.0
+mexico|apodaca|mobile|Movistar|3984|2023-10-01|8.17|66.7|27.77|9.31|64.16
+mexico|apodaca|mobile|Telcel|2830|2023-10-01|17.13|189.44|51.91|9.51|49.52
+mexico|apodaca|mobile|Unefón|3988|2023-10-01|0.98|3.01|2.81|1.72|42.96
+mexico|ciudad-general-escobedo|mobile|ALTAN Redes|4234|2023-10-01|6.5|37.3|17.42|8.6|60.64
+mexico|ciudad-general-escobedo|mobile|AT&T|3983|2023-10-01|12.41|62.46|31.0|8.63|39.14
+mexico|ciudad-general-escobedo|mobile|Movistar|3984|2023-10-01|13.86|74.17|38.75|15.88|63.46
+mexico|ciudad-general-escobedo|mobile|Telcel|2830|2023-10-01|14.54|112.24|41.43|11.62|55.55
+mexico|guadalupe|mobile|ALTAN Redes|4234|2023-10-01|9.1|36.41|18.18|11.03|68.08
+mexico|guadalupe|mobile|AT&T|3983|2023-10-01|3.29|59.09|23.68|5.73|44.16
+mexico|guadalupe|mobile|Movistar|3984|2023-10-01|15.45|56.34|33.27|10.62|66.8
+mexico|guadalupe|mobile|Telcel|2830|2023-10-01|22.66|243.0|60.43|12.44|43.49
+mexico|guadalupe|mobile|Unefón|3988|2023-10-01|0.85|2.98|2.81|2.37|43.29
+mexico|monterrey|mobile|ALTAN Redes|4234|2023-10-01|9.47|35.8|19.72|10.1|64.11
+mexico|monterrey|mobile|AT&T|3983|2023-10-01|6.73|62.55|28.05|8.03|43.44
+mexico|monterrey|mobile|Movistar|3984|2023-10-01|13.61|71.67|35.44|12.78|64.92
+mexico|monterrey|mobile|Telcel|2830|2023-10-01|22.07|261.41|64.86|13.57|45.42
+mexico|san-nicolas-de-los-garza|mobile|ALTAN Redes|4234|2023-10-01|10.54|42.15|25.7|10.64|60.03
+mexico|san-nicolas-de-los-garza|mobile|AT&T|3983|2023-10-01|6.57|56.98|27.36|7.17|42.32
+mexico|san-nicolas-de-los-garza|mobile|Movistar|3984|2023-10-01|13.66|55.56|35.68|10.68|62.89
+mexico|san-nicolas-de-los-garza|mobile|Telcel|2830|2023-10-01|19.7|211.02|58.67|13.41|47.32
+mexico|san-nicolas-de-los-garza|mobile|Unefón|3988|2023-10-01|0.37|2.95|1.8|1.88|40.73
+mexico|san-pedro-garza-garcia|mobile|ALTAN Redes|4234|2023-10-01|8.29|30.76|17.93|6.91|62.16
+mexico|san-pedro-garza-garcia|mobile|AT&T|3983|2023-10-01|12.8|66.72|31.24|13.85|41.88
+mexico|san-pedro-garza-garcia|mobile|Movistar|3984|2023-10-01|12.87|69.83|26.67|14.09|68.11
+mexico|san-pedro-garza-garcia|mobile|Telcel|2830|2023-10-01|24.66|317.53|86.0|14.71|43.66
+mexico|santa-catarina|mobile|ALTAN Redes|4234|2023-10-01|8.53|38.22|18.7|8.08|64.67
+mexico|santa-catarina|mobile|AT&T|3983|2023-10-01|9.33|47.81|17.55|8.88|42.09
+mexico|santa-catarina|mobile|Movistar|3984|2023-10-01|16.06|45.1|29.97|12.94|65.26
+mexico|santa-catarina|mobile|Telcel|2830|2023-10-01|11.63|148.63|44.86|13.6|43.82
+mexico|oaxaca|mobile|ALTAN Redes|4234|2023-10-01|1.91|14.17|6.64|10.08|104.43
+mexico|oaxaca|mobile|AT&T|3983|2023-10-01|5.74|55.57|23.32|6.09|80.67
+mexico|oaxaca|mobile|Telcel|2830|2023-10-01|16.52|171.42|57.82|17.04|70.82
+mexico|puebla|mobile|ALTAN Redes|4234|2023-10-01|6.15|29.25|15.28|15.85|91.09
+mexico|puebla|mobile|AT&T|3983|2023-10-01|4.0|42.4|18.29|8.53|71.62
+mexico|puebla|mobile|Movistar|3984|2023-10-01|7.12|35.34|17.51|9.41|69.01
+mexico|puebla|mobile|Telcel|2830|2023-10-01|17.28|122.44|43.85|15.66|46.89
+mexico|santiago-de-queretaro|mobile|ALTAN Redes|4234|2023-10-01|6.58|31.34|16.04|16.62|82.81
+mexico|santiago-de-queretaro|mobile|AT&T|3983|2023-10-01|7.32|59.72|27.59|10.07|87.69
+mexico|santiago-de-queretaro|mobile|Movistar|3984|2023-10-01|9.66|47.2|23.14|12.28|74.35
+mexico|santiago-de-queretaro|mobile|Telcel|2830|2023-10-01|23.17|198.56|61.58|16.42|72.48
+mexico|cancun|mobile|ALTAN Redes|4234|2023-10-01|5.04|24.81|12.7|15.02|78.47
+mexico|cancun|mobile|AT&T|3983|2023-10-01|9.68|56.13|24.18|6.44|126.38
+mexico|cancun|mobile|Movistar|3984|2023-10-01|8.88|50.52|29.9|9.66|124.25
+mexico|cancun|mobile|Telcel|2830|2023-10-01|19.7|165.9|55.47|14.03|62.09
+mexico|playa-del-carmen|mobile|ALTAN Redes|4234|2023-10-01|2.66|21.14|9.5|11.16|78.28
+mexico|playa-del-carmen|mobile|AT&T|3983|2023-10-01|9.99|58.81|25.85|10.12|114.73
+mexico|playa-del-carmen|mobile|Movistar|3984|2023-10-01|8.37|37.81|21.91|6.19|123.56
+mexico|playa-del-carmen|mobile|Telcel|2830|2023-10-01|15.93|122.4|45.77|16.53|71.85
+mexico|san-luis-potosi|mobile|ALTAN Redes|4234|2023-10-01|9.93|35.95|21.26|18.85|77.83
+mexico|san-luis-potosi|mobile|AT&T|3983|2023-10-01|8.77|56.17|26.91|8.94|94.82
+mexico|san-luis-potosi|mobile|Movistar|3984|2023-10-01|12.95|57.09|28.09|12.54|92.78
+mexico|san-luis-potosi|mobile|Telcel|2830|2023-10-01|30.34|198.72|74.02|15.41|95.86
+mexico|culiacan-rosales|mobile|ALTAN Redes|4234|2023-10-01|6.6|31.25|15.79|15.7|84.88
+mexico|culiacan-rosales|mobile|AT&T|3983|2023-10-01|10.44|89.65|49.36|8.18|104.92
+mexico|culiacan-rosales|mobile|Movistar|3984|2023-10-01|15.75|64.53|36.19|9.1|100.61
+mexico|culiacan-rosales|mobile|Telcel|2830|2023-10-01|34.56|252.01|91.48|17.18|63.05
+mexico|mazatlan|mobile|ALTAN Redes|4234|2023-10-01|12.11|34.74|21.47|6.76|80.69
+mexico|mazatlan|mobile|AT&T|3983|2023-10-01|5.71|63.62|28.26|6.47|92.82
+mexico|mazatlan|mobile|Movistar|3984|2023-10-01|9.37|65.47|35.32|9.45|83.6
+mexico|mazatlan|mobile|Telcel|2830|2023-10-01|31.64|166.43|75.25|15.56|72.92
+mexico|hermosillo|mobile|ALTAN Redes|4234|2023-10-01|12.43|39.37|26.35|11.96|76.4
+mexico|hermosillo|mobile|AT&T|3983|2023-10-01|11.99|76.79|41.76|9.82|69.2
+mexico|hermosillo|mobile|Movistar|3984|2023-10-01|13.77|73.85|38.96|13.99|104.93
+mexico|hermosillo|mobile|Telcel|2830|2023-10-01|30.03|210.33|75.51|20.55|50.67
+mexico|chimalhuacan|mobile|ALTAN Redes|4234|2023-10-01|2.73|14.54|5.4|9.73|92.07
+mexico|chimalhuacan|mobile|AT&T|3983|2023-10-01|2.92|24.19|10.44|3.4|66.54
+mexico|chimalhuacan|mobile|Movistar|3984|2023-10-01|4.69|24.86|13.5|8.19|55.63
+mexico|chimalhuacan|mobile|Telcel|2830|2023-10-01|23.42|119.36|48.04|10.0|42.59
+mexico|ciudad-lopez-mateos|mobile|ALTAN Redes|4234|2023-10-01|5.93|28.16|14.99|18.91|84.71
+mexico|ciudad-lopez-mateos|mobile|AT&T|3983|2023-10-01|3.71|36.98|16.11|6.92|58.4
+mexico|ciudad-lopez-mateos|mobile|Movistar|3984|2023-10-01|4.3|34.67|15.32|8.58|66.21
+mexico|ciudad-lopez-mateos|mobile|Telcel|2830|2023-10-01|22.35|114.08|60.31|13.5|36.4
+mexico|ciudad-nezahualcoyotl|mobile|ALTAN Redes|4234|2023-10-01|2.93|20.43|8.48|9.43|92.93
+mexico|ciudad-nezahualcoyotl|mobile|AT&T|3983|2023-10-01|3.22|42.48|21.17|5.25|48.61
+mexico|ciudad-nezahualcoyotl|mobile|Movistar|3984|2023-10-01|9.19|43.11|22.51|12.64|58.96
+mexico|ciudad-nezahualcoyotl|mobile|Telcel|2830|2023-10-01|25.01|134.25|52.1|12.01|45.01
+mexico|ciudad-nezahualcoyotl|mobile|Unefón|3988|2023-10-01|1.04|2.92|2.75|1.82|58.32
+mexico|coacalco|mobile|ALTAN Redes|4234|2023-10-01|3.65|18.0|8.09|11.6|93.29
+mexico|coacalco|mobile|AT&T|3983|2023-10-01|2.24|28.26|9.56|7.61|55.92
+mexico|coacalco|mobile|Movistar|3984|2023-10-01|3.25|22.23|8.59|9.84|69.14
+mexico|coacalco|mobile|Telcel|2830|2023-10-01|20.67|92.12|38.57|9.68|37.75
+mexico|cuautitlan-izcalli|mobile|ALTAN Redes|4234|2023-10-01|3.9|19.79|9.12|13.48|89.54
+mexico|cuautitlan-izcalli|mobile|AT&T|3983|2023-10-01|3.06|35.73|13.96|6.22|53.97
+mexico|cuautitlan-izcalli|mobile|Movistar|3984|2023-10-01|3.64|30.14|10.41|7.21|66.94
+mexico|cuautitlan-izcalli|mobile|Telcel|2830|2023-10-01|17.77|99.52|44.33|11.26|37.32
+mexico|ecatepec|mobile|ALTAN Redes|4234|2023-10-01|2.99|20.7|9.91|11.44|91.08
+mexico|ecatepec|mobile|AT&T|3983|2023-10-01|3.04|35.33|14.93|6.22|59.12
+mexico|ecatepec|mobile|Movistar|3984|2023-10-01|4.69|37.33|14.37|8.58|66.6
+mexico|ecatepec|mobile|Telcel|2830|2023-10-01|19.75|95.36|40.6|9.98|40.99
+mexico|ecatepec|mobile|Unefón|3988|2023-10-01|0.54|2.91|2.65|1.98|57.88
+mexico|ixtapaluca|mobile|ALTAN Redes|4234|2023-10-01|1.5|12.04|4.71|8.55|94.8
+mexico|ixtapaluca|mobile|AT&T|3983|2023-10-01|2.6|23.17|7.76|4.15|68.6
+mexico|ixtapaluca|mobile|Movistar|3984|2023-10-01|3.42|25.13|9.41|10.0|62.47
+mexico|ixtapaluca|mobile|Telcel|2830|2023-10-01|10.36|73.69|30.4|8.93|40.8
+mexico|metepec|mobile|ALTAN Redes|4234|2023-10-01|5.98|29.44|14.55|17.87|90.45
+mexico|metepec|mobile|AT&T|3983|2023-10-01|11.46|55.92|30.01|14.54|61.9
+mexico|metepec|mobile|Movistar|3984|2023-10-01|6.08|39.01|23.46|8.14|64.47
+mexico|metepec|mobile|Telcel|2830|2023-10-01|21.99|97.13|47.25|10.62|39.27
+mexico|naucalpan|mobile|ALTAN Redes|4234|2023-10-01|2.33|22.04|8.93|12.53|89.7
+mexico|naucalpan|mobile|AT&T|3983|2023-10-01|4.66|38.27|19.07|7.44|46.85
+mexico|naucalpan|mobile|Movistar|3984|2023-10-01|4.48|40.2|16.26|11.01|62.92
+mexico|naucalpan|mobile|Telcel|2830|2023-10-01|27.18|161.98|71.0|14.88|42.54
+mexico|ojo-de-agua|mobile|ALTAN Redes|4234|2023-10-01|2.72|17.83|7.72|15.77|91.38
+mexico|ojo-de-agua|mobile|AT&T|3983|2023-10-01|5.19|37.18|17.11|6.46|56.02
+mexico|ojo-de-agua|mobile|Movistar|3984|2023-10-01|7.37|42.51|16.68|10.33|65.81
+mexico|ojo-de-agua|mobile|Telcel|2830|2023-10-01|9.96|54.48|26.75|4.76|43.37
+mexico|tlalnepantla|mobile|ALTAN Redes|4234|2023-10-01|3.02|22.25|9.36|12.21|88.41
+mexico|tlalnepantla|mobile|AT&T|3983|2023-10-01|4.49|45.13|20.2|8.8|46.67
+mexico|tlalnepantla|mobile|Movistar|3984|2023-10-01|5.48|37.68|17.08|9.89|62.2
+mexico|tlalnepantla|mobile|Telcel|2830|2023-10-01|22.88|148.71|64.29|13.12|41.86
+mexico|toluca|mobile|ALTAN Redes|4234|2023-10-01|1.87|18.78|8.58|13.87|94.34
+mexico|toluca|mobile|AT&T|3983|2023-10-01|3.58|39.81|17.32|8.98|64.27
+mexico|toluca|mobile|Movistar|3984|2023-10-01|6.89|46.71|22.73|11.45|60.97
+mexico|toluca|mobile|Telcel|2830|2023-10-01|20.73|173.44|54.67|17.15|36.47
+mexico|villahermosa|mobile|ALTAN Redes|4234|2023-10-01|11.94|38.6|24.14|19.17|140.76
+mexico|villahermosa|mobile|AT&T|3983|2023-10-01|10.45|70.43|37.16|10.34|110.34
+mexico|villahermosa|mobile|Movistar|3984|2023-10-01|9.31|47.14|31.01|15.14|93.36
+mexico|villahermosa|mobile|Telcel|2830|2023-10-01|28.1|243.07|85.51|19.01|105.12
+mexico|ciudad-madero|mobile|ALTAN Redes|4234|2023-10-01|3.38|30.92|14.31|10.65|77.06
+mexico|ciudad-madero|mobile|AT&T|3983|2023-10-01|9.96|58.12|21.53|5.46|79.02
+mexico|ciudad-madero|mobile|Movistar|3984|2023-10-01|8.58|32.25|17.5|6.64|96.22
+mexico|ciudad-madero|mobile|Telcel|2830|2023-10-01|22.66|152.59|53.94|14.31|75.59
+mexico|ciudad-victoria|mobile|ALTAN Redes|4234|2023-10-01|4.09|13.27|8.96|1.83|569.8
+mexico|ciudad-victoria|mobile|AT&T|3983|2023-10-01|7.14|56.73|27.67|12.76|50.47
+mexico|ciudad-victoria|mobile|Movistar|3984|2023-10-01|13.44|58.34|29.97|14.21|67.63
+mexico|ciudad-victoria|mobile|Telcel|2830|2023-10-01|20.5|165.07|47.67|15.0|56.58
+mexico|matamoros|mobile|ALTAN Redes|4234|2023-10-01|0.25|3.12|1.09|1.21|102.68
+mexico|matamoros|mobile|AT&T|3983|2023-10-01|4.99|43.19|18.08|7.43|57.03
+mexico|matamoros|mobile|Movistar|3984|2023-10-01|10.71|37.82|21.55|13.0|72.95
+mexico|matamoros|mobile|Telcel|2830|2023-10-01|11.58|155.12|32.32|11.01|64.65
+mexico|matamoros|mobile|Unefón|3988|2023-10-01|0.37|2.97|2.27|1.75|57.53
+mexico|nuevo-laredo|mobile|ALTAN Redes|4234|2023-10-01|0.25|5.19|2.59|0.94|105.55
+mexico|nuevo-laredo|mobile|AT&T|3983|2023-10-01|7.97|47.23|21.55|11.57|55.66
+mexico|nuevo-laredo|mobile|Movistar|3984|2023-10-01|6.84|28.74|17.02|9.54|68.07
+mexico|nuevo-laredo|mobile|Telcel|2830|2023-10-01|16.66|156.26|41.27|16.53|55.77
+mexico|nuevo-laredo|mobile|Unefón|3988|2023-10-01|1.22|3.0|2.73|2.59|57.55
+mexico|reynosa|mobile|ALTAN Redes|4234|2023-10-01|0.31|4.92|2.07|1.58|98.89
+mexico|reynosa|mobile|AT&T|3983|2023-10-01|2.55|41.09|13.15|9.24|48.3
+mexico|reynosa|mobile|Movistar|3984|2023-10-01|7.1|32.65|16.0|9.82|70.71
+mexico|reynosa|mobile|Telcel|2830|2023-10-01|18.23|149.51|45.14|16.04|56.37
+mexico|reynosa|mobile|Unefón|3988|2023-10-01|1.42|2.97|2.37|1.92|51.82
+mexico|tampico|mobile|ALTAN Redes|4234|2023-10-01|8.06|39.56|19.92|12.29|74.51
+mexico|tampico|mobile|AT&T|3983|2023-10-01|10.57|76.49|27.02|11.09|76.8
+mexico|tampico|mobile|Movistar|3984|2023-10-01|12.49|67.77|30.11|11.01|85.87
+mexico|tampico|mobile|Telcel|2830|2023-10-01|29.1|235.56|70.03|16.19|74.17
+mexico|heroica-veracruz|mobile|ALTAN Redes|4234|2023-10-01|5.43|26.9|13.81|13.66|98.67
+mexico|heroica-veracruz|mobile|AT&T|3983|2023-10-01|6.21|46.18|28.31|7.74|80.49
+mexico|heroica-veracruz|mobile|Movistar|3984|2023-10-01|10.62|45.15|26.73|11.4|85.1
+mexico|heroica-veracruz|mobile|Telcel|2830|2023-10-01|23.82|160.51|55.37|14.64|67.16
+mexico|heroica-veracruz|mobile|Unefón|3988|2023-10-01|0.93|3.17|2.68|2.69|81.66
+mexico|xalapa|mobile|ALTAN Redes|4234|2023-10-01|5.03|30.38|15.54|13.06|103.01
+mexico|xalapa|mobile|AT&T|3983|2023-10-01|10.23|60.17|32.81|7.5|78.94
+mexico|xalapa|mobile|Movistar|3984|2023-10-01|11.95|50.55|25.07|10.43|90.32
+mexico|xalapa|mobile|Telcel|2830|2023-10-01|23.15|153.44|51.27|14.62|70.06
+mexico|merida|mobile|ALTAN Redes|4234|2023-10-01|7.4|34.73|19.94|15.17|119.95
+mexico|merida|mobile|AT&T|3983|2023-10-01|9.21|52.49|28.95|7.59|108.2
+mexico|merida|mobile|Movistar|3984|2023-10-01|15.15|52.69|29.72|11.86|107.3
+mexico|merida|mobile|Telcel|2830|2023-10-01|22.33|182.43|59.6|12.95|80.11
+moldova|chisinau|mobile|Moldcell|2800|2023-10-01|17.14|78.1|43.0|13.2|29.2
+moldova|chisinau|mobile|Orange|2801|2023-10-01|13.58|65.33|32.69|14.68|33.23
+moldova|chisinau|mobile|Unite|3638|2023-10-01|9.89|51.39|26.44|14.95|37.21
+moldova|chisinau|mobile|Moldcell|2800|2023-10-01|17.14|77.48|43.04|13.32|28.98
+moldova|chisinau|mobile|Orange|2801|2023-10-01|13.39|65.06|32.41|14.66|33.38
+moldova|chisinau|mobile|Unite|3638|2023-10-01|9.87|51.15|26.57|15.27|37.34
+mongolia|ulaanbaatar|mobile|MobiCom|2814|2023-10-01|8.62|29.09|17.28|13.63|44.09
+mongolia|ulaanbaatar|mobile|Skytel|3978|2023-10-01|3.81|19.97|6.15|4.9|74.45
+mongolia|ulaanbaatar|mobile|SuperNet|4423|2023-10-01|6.0|24.79|12.52|2.65|71.66
+mongolia|ulaanbaatar|mobile|Unitel|3979|2023-10-01|6.42|44.06|19.38|10.32|48.79
+mongolia|ulaanbaatar|mobile|gmobile|3977|2023-10-01|5.42|18.75|11.49|8.41|40.47
+mongolia|ulaanbaatar|mobile|MobiCom|2814|2023-10-01|8.38|27.51|17.08|13.48|44.43
+mongolia|ulaanbaatar|mobile|Skytel|3978|2023-10-01|3.72|20.14|5.9|4.89|72.94
+mongolia|ulaanbaatar|mobile|SuperNet|4423|2023-10-01|5.69|23.87|11.83|2.6|71.12
+mongolia|ulaanbaatar|mobile|Unitel|3979|2023-10-01|6.37|44.11|18.94|10.4|49.15
+mongolia|ulaanbaatar|mobile|gmobile|3977|2023-10-01|5.72|18.55|11.33|8.41|40.32
+montenegro|budva|mobile|Crnogorski Telekom|3641|2023-10-01|41.27|127.58|79.25|25.31|32.41
+montenegro|budva|mobile|One|3640|2023-10-01|24.07|141.16|46.15|15.05|28.05
+montenegro|budva|mobile|m|3642|2023-10-01|11.71|63.96|28.31|14.06|31.66
+montenegro|podgorica|mobile|Crnogorski Telekom|3641|2023-10-01|43.49|160.11|87.36|27.79|30.36
+montenegro|podgorica|mobile|One|3640|2023-10-01|19.48|94.06|40.43|15.17|28.01
+montenegro|podgorica|mobile|m|3642|2023-10-01|19.43|76.77|43.34|14.85|30.9
+montenegro|podgorica|mobile|Crnogorski Telekom|3641|2023-10-01|42.04|159.67|86.61|27.75|30.47
+montenegro|podgorica|mobile|One|3640|2023-10-01|19.51|95.04|40.37|15.26|27.84
+montenegro|podgorica|mobile|m|3642|2023-10-01|18.65|76.12|43.01|14.44|30.88
+morocco|chaouia-ouardigha|mobile|Maroc Telecom|2796|2023-10-01|21.18|77.53|41.77|10.64|51.51
+morocco|chaouia-ouardigha|mobile|Orange|2797|2023-10-01|8.49|50.66|23.88|9.33|51.02
+morocco|chaouia-ouardigha|mobile|inwi|3971|2023-10-01|10.38|53.78|24.61|9.29|43.77
+morocco|doukkala-abda|mobile|Maroc Telecom|2796|2023-10-01|20.71|86.08|45.67|11.41|51.52
+morocco|doukkala-abda|mobile|Orange|2797|2023-10-01|9.64|58.95|25.31|9.83|51.63
+morocco|doukkala-abda|mobile|inwi|3971|2023-10-01|12.77|59.25|27.81|9.75|45.44
+morocco|fes-boulemane|mobile|Maroc Telecom|2796|2023-10-01|28.32|94.54|52.74|14.65|48.34
+morocco|fes-boulemane|mobile|Orange|2797|2023-10-01|11.52|61.59|28.8|11.42|56.4
+morocco|fes-boulemane|mobile|inwi|3971|2023-10-01|12.09|71.21|31.85|9.42|51.29
+morocco|gharb-chrarda-beni-hssen|mobile|Maroc Telecom|2796|2023-10-01|21.45|81.33|45.28|12.15|50.68
+morocco|gharb-chrarda-beni-hssen|mobile|Orange|2797|2023-10-01|10.29|50.1|24.01|11.94|52.98
+morocco|gharb-chrarda-beni-hssen|mobile|inwi|3971|2023-10-01|11.28|53.82|27.16|9.09|51.74
+morocco|grand-casablanca|mobile|Maroc Telecom|2796|2023-10-01|25.37|107.54|54.45|12.93|47.5
+morocco|grand-casablanca|mobile|Orange|2797|2023-10-01|11.67|57.65|29.34|12.25|48.85
+morocco|grand-casablanca|mobile|inwi|3971|2023-10-01|13.53|70.95|34.07|11.67|39.6
+morocco|marrakesh-tensift-el-haouz|mobile|Maroc Telecom|2796|2023-10-01|22.41|82.69|46.88|12.87|50.99
+morocco|marrakesh-tensift-el-haouz|mobile|Orange|2797|2023-10-01|10.35|53.43|26.46|10.32|54.31
+morocco|marrakesh-tensift-el-haouz|mobile|inwi|3971|2023-10-01|14.01|73.89|34.7|10.65|42.88
+morocco|meknes-tafilalet|mobile|Maroc Telecom|2796|2023-10-01|28.64|92.95|52.27|14.8|44.15
+morocco|meknes-tafilalet|mobile|Orange|2797|2023-10-01|11.92|53.77|26.62|13.29|49.25
+morocco|meknes-tafilalet|mobile|inwi|3971|2023-10-01|10.87|57.09|26.95|9.25|50.68
+morocco|rabat-sale-zemmour-zaer|mobile|Maroc Telecom|2796|2023-10-01|24.3|103.2|50.99|13.75|49.47
+morocco|rabat-sale-zemmour-zaer|mobile|Orange|2797|2023-10-01|12.02|56.95|32.74|12.08|48.65
+morocco|rabat-sale-zemmour-zaer|mobile|inwi|3971|2023-10-01|12.42|60.53|29.43|9.64|43.54
+morocco|souss-massa-draa|mobile|Maroc Telecom|2796|2023-10-01|20.35|72.4|44.28|11.29|53.64
+morocco|souss-massa-draa|mobile|Orange|2797|2023-10-01|10.71|59.55|29.52|10.18|56.11
+morocco|souss-massa-draa|mobile|inwi|3971|2023-10-01|12.06|61.56|29.29|10.92|48.61
+morocco|tadla-azilal|mobile|Maroc Telecom|2796|2023-10-01|20.04|69.96|43.86|10.66|52.99
+morocco|tadla-azilal|mobile|Orange|2797|2023-10-01|9.04|54.96|23.17|8.43|54.49
+morocco|tadla-azilal|mobile|inwi|3971|2023-10-01|9.03|46.75|23.96|8.0|47.2
+morocco|tangier-tetouan|mobile|Maroc Telecom|2796|2023-10-01|21.71|90.4|45.72|11.95|71.26
+morocco|tangier-tetouan|mobile|Orange|2797|2023-10-01|9.69|53.51|25.1|12.03|64.34
+morocco|tangier-tetouan|mobile|inwi|3971|2023-10-01|13.04|63.34|30.1|10.1|68.92
+morocco|taza-al-hoceima-taounate|mobile|Maroc Telecom|2796|2023-10-01|23.1|72.77|45.71|12.67|54.0
+morocco|taza-al-hoceima-taounate|mobile|Orange|2797|2023-10-01|5.97|44.77|20.62|7.39|68.17
+morocco|taza-al-hoceima-taounate|mobile|inwi|3971|2023-10-01|7.4|40.23|17.01|5.7|73.68
+morocco|fes|mobile|Maroc Telecom|2796|2023-10-01|28.38|95.59|52.95|15.03|48.73
+morocco|fes|mobile|Orange|2797|2023-10-01|12.44|63.25|32.4|12.13|56.4
+morocco|fes|mobile|inwi|3971|2023-10-01|14.1|76.24|36.07|10.17|50.52
+morocco|kenitra|mobile|Maroc Telecom|2796|2023-10-01|23.07|90.4|48.91|12.69|49.98
+morocco|kenitra|mobile|Orange|2797|2023-10-01|12.32|54.83|24.95|14.68|49.84
+morocco|kenitra|mobile|inwi|3971|2023-10-01|12.4|66.15|32.78|10.26|47.35
+morocco|bouskoura|mobile|Maroc Telecom|2796|2023-10-01|25.53|112.44|55.48|14.41|47.67
+morocco|bouskoura|mobile|Orange|2797|2023-10-01|8.83|93.93|36.34|13.9|46.92
+morocco|bouskoura|mobile|inwi|3971|2023-10-01|12.56|79.53|34.28|12.18|37.94
+morocco|casablanca|mobile|Maroc Telecom|2796|2023-10-01|25.6|109.69|55.37|12.95|47.4
+morocco|casablanca|mobile|Orange|2797|2023-10-01|11.75|57.01|29.17|12.26|48.94
+morocco|casablanca|mobile|inwi|3971|2023-10-01|13.56|70.33|34.06|11.64|39.34
+morocco|mohammedia|mobile|Maroc Telecom|2796|2023-10-01|22.59|88.68|47.63|12.73|47.28
+morocco|mohammedia|mobile|Orange|2797|2023-10-01|13.7|66.97|35.98|14.34|46.67
+morocco|mohammedia|mobile|inwi|3971|2023-10-01|16.59|79.59|39.34|13.98|39.89
+morocco|marrakesh|mobile|Maroc Telecom|2796|2023-10-01|23.12|87.08|47.8|13.64|50.39
+morocco|marrakesh|mobile|Orange|2797|2023-10-01|11.32|55.67|28.04|11.46|54.1
+morocco|marrakesh|mobile|inwi|3971|2023-10-01|15.86|81.62|40.62|12.48|40.85
+morocco|meknes|mobile|Maroc Telecom|2796|2023-10-01|31.0|108.85|53.75|16.73|43.39
+morocco|meknes|mobile|Orange|2797|2023-10-01|12.18|54.17|28.4|15.67|47.93
+morocco|meknes|mobile|inwi|3971|2023-10-01|11.78|58.02|29.68|9.49|46.85
+morocco|rabat|mobile|Maroc Telecom|2796|2023-10-01|26.83|111.99|55.15|13.95|49.8
+morocco|rabat|mobile|Orange|2797|2023-10-01|11.99|57.98|34.56|12.9|48.98
+morocco|rabat|mobile|inwi|3971|2023-10-01|12.07|56.77|28.73|9.64|42.93
+morocco|sale|mobile|Maroc Telecom|2796|2023-10-01|23.2|102.36|48.75|14.34|48.65
+morocco|sale|mobile|Orange|2797|2023-10-01|11.34|55.53|25.68|9.12|47.68
+morocco|sale|mobile|inwi|3971|2023-10-01|13.73|66.61|30.39|8.91|41.11
+morocco|temara|mobile|Maroc Telecom|2796|2023-10-01|24.3|95.88|47.23|13.03|47.92
+morocco|temara|mobile|Orange|2797|2023-10-01|13.16|59.0|40.19|14.05|46.9
+morocco|temara|mobile|inwi|3971|2023-10-01|15.93|73.26|42.16|11.06|41.3
+morocco|agadir|mobile|Maroc Telecom|2796|2023-10-01|19.68|75.49|45.71|11.83|51.97
+morocco|agadir|mobile|Orange|2797|2023-10-01|17.59|70.98|40.01|16.74|53.55
+morocco|agadir|mobile|inwi|3971|2023-10-01|14.48|77.62|37.72|11.97|45.0
+morocco|tangier|mobile|Maroc Telecom|2796|2023-10-01|21.74|93.09|48.18|12.01|71.71
+morocco|tangier|mobile|Orange|2797|2023-10-01|8.4|50.61|23.18|11.31|63.66
+morocco|tangier|mobile|inwi|3971|2023-10-01|12.37|59.36|29.63|8.52|70.3
+morocco|tetouan|mobile|Maroc Telecom|2796|2023-10-01|22.52|88.92|45.17|11.84|72.64
+morocco|tetouan|mobile|Orange|2797|2023-10-01|14.37|67.45|33.76|12.57|64.88
+morocco|tetouan|mobile|inwi|3971|2023-10-01|14.02|68.41|30.34|11.68|69.73
+mozambique|maputo-city|mobile|Movitel|3644|2023-10-01|7.62|39.98|17.63|14.31|56.21
+mozambique|maputo-city|mobile|Tmcel|2837|2023-10-01|12.83|41.75|23.79|15.77|49.1
+mozambique|maputo-city|mobile|Vodacom|2838|2023-10-01|12.06|49.81|26.12|20.35|49.59
+mozambique|maputo|mobile|Movitel|3644|2023-10-01|8.29|45.57|21.19|14.71|55.82
+mozambique|maputo|mobile|Tmcel|2837|2023-10-01|14.05|44.75|25.82|16.84|47.77
+mozambique|maputo|mobile|Vodacom|2838|2023-10-01|13.4|52.07|27.67|21.14|49.04
+myanmar-(burma)|ayeyarwady|mobile|ATOM|3976|2023-10-01|12.66|47.33|28.85|11.82|90.33
+myanmar-(burma)|ayeyarwady|mobile|MPT|2813|2023-10-01|8.41|48.88|25.22|9.2|64.18
+myanmar-(burma)|ayeyarwady|mobile|Mytel|4213|2023-10-01|3.19|21.53|8.52|11.24|43.39
+myanmar-(burma)|ayeyarwady|mobile|Ooredo|3975|2023-10-01|13.3|54.41|31.99|9.02|65.43
+myanmar-(burma)|bago-region|mobile|ATOM|3976|2023-10-01|9.66|45.45|22.14|14.76|59.58
+myanmar-(burma)|bago-region|mobile|MPT|2813|2023-10-01|15.21|54.51|28.66|12.98|60.44
+myanmar-(burma)|bago-region|mobile|Mytel|4213|2023-10-01|3.69|23.19|10.73|7.5|63.15
+myanmar-(burma)|bago-region|mobile|Ooredo|3975|2023-10-01|13.7|57.28|31.4|7.23|54.54
+myanmar-(burma)|kayin-state|mobile|ATOM|3976|2023-10-01|2.95|28.72|10.99|9.09|77.72
+myanmar-(burma)|kayin-state|mobile|MPT|2813|2023-10-01|4.68|37.0|16.9|7.52|99.61
+myanmar-(burma)|kayin-state|mobile|Mytel|4213|2023-10-01|2.0|15.95|6.16|9.58|95.66
+myanmar-(burma)|kayin-state|mobile|Ooredo|3975|2023-10-01|1.27|20.01|3.98|3.67|98.59
+myanmar-(burma)|magway-region|mobile|ATOM|3976|2023-10-01|14.26|62.58|36.77|14.97|78.2
+myanmar-(burma)|magway-region|mobile|MPT|2813|2023-10-01|5.96|34.76|13.81|6.27|95.11
+myanmar-(burma)|magway-region|mobile|Mytel|4213|2023-10-01|3.7|21.38|9.8|3.34|58.9
+myanmar-(burma)|magway-region|mobile|Ooredo|3975|2023-10-01|5.97|56.66|23.64|5.59|91.91
+myanmar-(burma)|mandalay-region|mobile|ATOM|3976|2023-10-01|15.55|65.0|37.85|12.7|74.18
+myanmar-(burma)|mandalay-region|mobile|MPT|2813|2023-10-01|12.85|49.07|26.87|9.28|88.86
+myanmar-(burma)|mandalay-region|mobile|Mytel|4213|2023-10-01|5.75|41.24|18.4|7.96|48.86
+myanmar-(burma)|mandalay-region|mobile|Ooredo|3975|2023-10-01|11.65|55.57|29.06|5.72|91.86
+myanmar-(burma)|mon-state|mobile|ATOM|3976|2023-10-01|16.28|46.9|31.05|15.94|66.11
+myanmar-(burma)|mon-state|mobile|MPT|2813|2023-10-01|20.35|63.42|35.05|10.16|57.73
+myanmar-(burma)|mon-state|mobile|Mytel|4213|2023-10-01|3.75|28.89|12.25|10.94|64.42
+myanmar-(burma)|mon-state|mobile|Ooredo|3975|2023-10-01|18.35|70.86|38.09|9.72|52.57
+myanmar-(burma)|sagaing-region|mobile|ATOM|3976|2023-10-01|1.42|40.1|10.99|7.91|96.34
+myanmar-(burma)|sagaing-region|mobile|MPT|2813|2023-10-01|4.51|56.96|22.02|14.07|94.86
+myanmar-(burma)|sagaing-region|mobile|Mytel|4213|2023-10-01|0.98|14.07|3.88|3.3|71.94
+myanmar-(burma)|sagaing-region|mobile|Ooredo|3975|2023-10-01|2.4|31.32|10.64|4.72|96.44
+myanmar-(burma)|shan|mobile|ATOM|3976|2023-10-01|8.79|53.83|28.96|11.13|78.08
+myanmar-(burma)|shan|mobile|MPT|2813|2023-10-01|5.78|36.97|19.83|9.55|98.98
+myanmar-(burma)|shan|mobile|Mytel|4213|2023-10-01|2.16|21.14|7.37|4.79|91.08
+myanmar-(burma)|shan|mobile|Ooredo|3975|2023-10-01|11.85|52.55|28.65|5.99|104.43
+myanmar-(burma)|yangon-region|mobile|ATOM|3976|2023-10-01|12.05|53.86|29.85|18.17|86.53
+myanmar-(burma)|yangon-region|mobile|MPT|2813|2023-10-01|17.2|56.61|33.88|16.86|40.48
+myanmar-(burma)|yangon-region|mobile|Mytel|4213|2023-10-01|5.25|37.48|16.27|11.66|36.93
+myanmar-(burma)|yangon-region|mobile|Ooredo|3975|2023-10-01|16.11|57.82|33.73|10.26|63.12
+myanmar-(burma)|mandalay|mobile|ATOM|3976|2023-10-01|16.49|69.65|40.69|13.78|73.7
+myanmar-(burma)|mandalay|mobile|MPT|2813|2023-10-01|16.01|55.49|30.46|13.13|88.73
+myanmar-(burma)|mandalay|mobile|Mytel|4213|2023-10-01|14.23|57.72|33.55|10.4|47.36
+myanmar-(burma)|mandalay|mobile|Ooredo|3975|2023-10-01|10.83|55.58|28.05|5.59|90.65
+myanmar-(burma)|yangon|mobile|ATOM|3976|2023-10-01|12.52|54.08|30.32|18.78|86.44
+myanmar-(burma)|yangon|mobile|MPT|2813|2023-10-01|17.3|56.85|33.96|17.29|40.46
+myanmar-(burma)|yangon|mobile|Mytel|4213|2023-10-01|5.54|37.78|16.68|11.77|36.19
+myanmar-(burma)|yangon|mobile|Ooredo|3975|2023-10-01|16.76|57.88|34.06|10.37|63.07
+namibia|khomas|mobile|MTC|2839|2023-10-01|11.56|47.42|28.64|13.16|55.95
+namibia|khomas|mobile|Telecom Namibia|2841|2023-10-01|4.61|19.21|12.44|3.2|84.15
+namibia|windhoek|mobile|MTC|2839|2023-10-01|11.74|47.48|28.8|13.84|55.61
+namibia|windhoek|mobile|Telecom Namibia|2841|2023-10-01|4.41|18.88|12.15|3.15|79.9
+nepal|central-development-region|mobile|Ncell|4021|2023-10-01|5.84|36.38|18.0|8.82|36.4
+nepal|central-development-region|mobile|Nepal Telecom|2879|2023-10-01|4.2|30.14|13.6|10.54|32.12
+nepal|eastern-region|mobile|Ncell|4021|2023-10-01|3.58|35.3|15.99|5.64|87.63
+nepal|eastern-region|mobile|Nepal Telecom|2879|2023-10-01|5.31|45.23|23.64|12.15|71.86
+nepal|kathmandu|mobile|Ncell|4021|2023-10-01|5.86|36.02|19.07|9.53|35.59
+nepal|kathmandu|mobile|Nepal Telecom|2879|2023-10-01|3.9|28.31|12.58|11.24|31.48
+netherlands|drenthe|mobile|KPN Mobile|3646|2023-10-01|63.27|236.31|153.84|17.46|33.46
+netherlands|drenthe|mobile|Odido|2860|2023-10-01|45.24|216.99|133.65|12.46|33.77
+netherlands|drenthe|mobile|Vodafone|2863|2023-10-01|42.52|148.42|87.77|9.69|38.04
+netherlands|flevoland|mobile|KPN Mobile|3646|2023-10-01|74.59|231.93|141.78|19.2|31.69
+netherlands|flevoland|mobile|Odido|2860|2023-10-01|47.81|214.38|124.11|15.32|38.74
+netherlands|flevoland|mobile|Vodafone|2863|2023-10-01|37.99|144.21|83.22|9.15|35.81
+netherlands|friesland|mobile|KPN Mobile|3646|2023-10-01|77.19|246.71|160.5|20.12|31.87
+netherlands|friesland|mobile|Odido|2860|2023-10-01|62.06|219.24|136.1|17.54|31.63
+netherlands|friesland|mobile|Vodafone|2863|2023-10-01|49.05|157.99|97.07|11.91|37.66
+netherlands|gelderland|mobile|KPN Mobile|3646|2023-10-01|74.96|235.39|148.85|21.01|31.86
+netherlands|gelderland|mobile|Odido|2860|2023-10-01|57.84|220.5|135.51|16.09|34.04
+netherlands|gelderland|mobile|Vodafone|2863|2023-10-01|44.44|152.8|95.63|11.6|35.07
+netherlands|groningen|mobile|KPN Mobile|3646|2023-10-01|61.25|220.26|135.34|20.35|34.21
+netherlands|groningen|mobile|Odido|2860|2023-10-01|76.92|237.32|156.43|19.59|35.15
+netherlands|groningen|mobile|Vodafone|2863|2023-10-01|42.63|137.85|84.88|11.4|38.6
+netherlands|limburg|mobile|KPN Mobile|3646|2023-10-01|84.13|255.17|161.43|22.06|31.85
+netherlands|limburg|mobile|Odido|2860|2023-10-01|71.21|215.91|138.82|20.75|35.54
+netherlands|limburg|mobile|Vodafone|2863|2023-10-01|50.68|168.72|101.77|13.24|36.9
+netherlands|north-brabant|mobile|KPN Mobile|3646|2023-10-01|75.14|229.86|146.87|20.75|31.82
+netherlands|north-brabant|mobile|Odido|2860|2023-10-01|73.06|235.24|146.17|22.55|34.93
+netherlands|north-brabant|mobile|Vodafone|2863|2023-10-01|50.51|154.85|96.4|13.01|35.56
+netherlands|north-holland|mobile|KPN Mobile|3646|2023-10-01|62.13|208.93|131.08|20.08|32.18
+netherlands|north-holland|mobile|Odido|2860|2023-10-01|63.92|230.28|138.52|20.68|34.04
+netherlands|north-holland|mobile|Vodafone|2863|2023-10-01|39.15|143.33|84.61|11.24|35.67
+netherlands|overijssel|mobile|KPN Mobile|3646|2023-10-01|78.77|226.63|149.55|22.34|32.31
+netherlands|overijssel|mobile|Odido|2860|2023-10-01|70.34|242.56|152.86|20.8|33.46
+netherlands|overijssel|mobile|Vodafone|2863|2023-10-01|48.9|153.25|92.33|12.08|36.68
+netherlands|south-holland|mobile|KPN Mobile|3646|2023-10-01|70.0|222.18|140.52|21.9|31.51
+netherlands|south-holland|mobile|Odido|2860|2023-10-01|64.38|222.47|136.74|22.12|33.63
+netherlands|south-holland|mobile|Vodafone|2863|2023-10-01|44.49|150.32|89.7|12.97|36.47
+netherlands|utrecht|mobile|KPN Mobile|3646|2023-10-01|67.32|226.69|144.45|19.9|31.35
+netherlands|utrecht|mobile|Odido|2860|2023-10-01|60.12|231.55|140.37|19.57|35.87
+netherlands|utrecht|mobile|Vodafone|2863|2023-10-01|41.63|153.11|87.7|10.97|37.05
+netherlands|zeeland|mobile|KPN Mobile|3646|2023-10-01|79.26|238.18|160.45|17.25|34.63
+netherlands|zeeland|mobile|Odido|2860|2023-10-01|66.72|212.71|129.84|18.77|35.01
+netherlands|zeeland|mobile|Vodafone|2863|2023-10-01|49.25|161.75|104.85|10.33|38.8
+netherlands|almere|mobile|KPN Mobile|3646|2023-10-01|65.77|223.0|135.35|19.52|31.22
+netherlands|almere|mobile|Odido|2860|2023-10-01|40.84|223.55|121.99|15.06|39.33
+netherlands|almere|mobile|Vodafone|2863|2023-10-01|45.81|149.75|88.57|11.87|34.69
+netherlands|apeldoorn|mobile|KPN Mobile|3646|2023-10-01|67.46|225.35|150.51|23.59|30.33
+netherlands|apeldoorn|mobile|Odido|2860|2023-10-01|97.32|284.09|172.78|22.96|31.34
+netherlands|apeldoorn|mobile|Vodafone|2863|2023-10-01|52.1|143.2|97.47|13.35|34.17
+netherlands|arnhem|mobile|KPN Mobile|3646|2023-10-01|80.16|239.78|148.52|34.15|31.06
+netherlands|arnhem|mobile|Odido|2860|2023-10-01|55.47|232.36|137.61|17.12|33.33
+netherlands|arnhem|mobile|Vodafone|2863|2023-10-01|49.49|162.4|100.68|12.86|33.92
+netherlands|nijmegen|mobile|KPN Mobile|3646|2023-10-01|75.42|208.01|138.74|22.68|32.37
+netherlands|nijmegen|mobile|Odido|2860|2023-10-01|62.07|252.75|152.33|19.12|36.99
+netherlands|nijmegen|mobile|Vodafone|2863|2023-10-01|42.2|141.02|93.95|14.71|33.57
+netherlands|groningen|mobile|KPN Mobile|3646|2023-10-01|80.44|216.78|145.22|28.6|34.85
+netherlands|groningen|mobile|Odido|2860|2023-10-01|108.99|284.24|181.71|29.13|36.02
+netherlands|groningen|mobile|Vodafone|2863|2023-10-01|47.05|134.07|84.11|12.81|38.68
+netherlands|'s-hertogenbosch|mobile|KPN Mobile|3646|2023-10-01|58.51|223.6|150.1|19.6|31.24
+netherlands|'s-hertogenbosch|mobile|Odido|2860|2023-10-01|78.02|211.47|131.45|24.61|35.71
+netherlands|'s-hertogenbosch|mobile|Vodafone|2863|2023-10-01|44.75|149.78|94.52|14.95|37.17
+netherlands|breda|mobile|KPN Mobile|3646|2023-10-01|92.64|246.74|157.18|25.26|31.23
+netherlands|breda|mobile|Odido|2860|2023-10-01|98.16|291.73|187.9|29.07|36.43
+netherlands|breda|mobile|Vodafone|2863|2023-10-01|45.8|159.93|96.18|18.66|34.39
+netherlands|eindhoven|mobile|KPN Mobile|3646|2023-10-01|67.38|205.62|129.41|25.6|32.92
+netherlands|eindhoven|mobile|Odido|2860|2023-10-01|98.05|284.54|177.2|32.69|36.53
+netherlands|eindhoven|mobile|Vodafone|2863|2023-10-01|48.7|186.12|106.15|15.66|33.5
+netherlands|tilburg|mobile|KPN Mobile|3646|2023-10-01|60.48|203.68|122.88|20.56|30.89
+netherlands|tilburg|mobile|Odido|2860|2023-10-01|89.36|285.77|177.28|28.27|35.59
+netherlands|tilburg|mobile|Vodafone|2863|2023-10-01|41.63|140.43|90.24|11.89|35.94
+netherlands|amstelveen|mobile|KPN Mobile|3646|2023-10-01|66.05|223.83|144.99|21.2|30.96
+netherlands|amstelveen|mobile|Odido|2860|2023-10-01|68.55|228.22|143.82|23.69|30.7
+netherlands|amstelveen|mobile|Vodafone|2863|2023-10-01|38.56|143.54|92.08|8.72|34.77
+netherlands|amsterdam|mobile|KPN Mobile|3646|2023-10-01|55.0|201.08|122.2|19.86|32.62
+netherlands|amsterdam|mobile|Odido|2860|2023-10-01|60.02|232.39|135.17|20.6|33.99
+netherlands|amsterdam|mobile|Vodafone|2863|2023-10-01|35.35|138.64|79.59|10.65|36.33
+netherlands|haarlem|mobile|KPN Mobile|3646|2023-10-01|71.22|220.0|155.19|21.81|32.22
+netherlands|haarlem|mobile|Odido|2860|2023-10-01|101.46|294.49|183.33|31.31|32.74
+netherlands|haarlem|mobile|Vodafone|2863|2023-10-01|33.36|137.95|76.74|12.01|34.19
+netherlands|hilversum|mobile|KPN Mobile|3646|2023-10-01|81.44|223.93|150.27|21.81|31.72
+netherlands|hilversum|mobile|Odido|2860|2023-10-01|82.77|232.45|158.39|26.16|35.1
+netherlands|hilversum|mobile|Vodafone|2863|2023-10-01|59.2|145.36|89.97|12.44|35.15
+netherlands|enschede|mobile|KPN Mobile|3646|2023-10-01|69.56|226.58|139.22|24.18|31.58
+netherlands|enschede|mobile|Odido|2860|2023-10-01|101.02|285.5|188.39|27.53|32.39
+netherlands|enschede|mobile|Vodafone|2863|2023-10-01|50.52|178.41|106.44|16.5|35.97
+netherlands|zwolle|mobile|KPN Mobile|3646|2023-10-01|81.43|213.4|140.64|29.66|32.74
+netherlands|zwolle|mobile|Odido|2860|2023-10-01|49.2|248.65|150.53|19.94|34.41
+netherlands|zwolle|mobile|Vodafone|2863|2023-10-01|43.62|161.41|92.27|12.17|36.86
+netherlands|dordrecht|mobile|KPN Mobile|3646|2023-10-01|81.83|257.81|152.22|33.47|31.76
+netherlands|dordrecht|mobile|Odido|2860|2023-10-01|96.72|299.01|188.77|30.96|31.75
+netherlands|dordrecht|mobile|Vodafone|2863|2023-10-01|29.45|150.13|87.74|10.44|37.54
+netherlands|gouda|mobile|KPN Mobile|3646|2023-10-01|66.34|209.99|130.77|24.04|30.25
+netherlands|gouda|mobile|Odido|2860|2023-10-01|43.88|220.29|118.48|16.77|36.97
+netherlands|gouda|mobile|Vodafone|2863|2023-10-01|48.27|153.15|95.36|9.29|37.75
+netherlands|the-hague|mobile|KPN Mobile|3646|2023-10-01|74.04|233.1|146.27|33.19|30.81
+netherlands|the-hague|mobile|Odido|2860|2023-10-01|54.93|224.41|129.97|24.85|33.01
+netherlands|the-hague|mobile|Vodafone|2863|2023-10-01|38.34|140.7|78.73|11.69|36.26
+netherlands|leiden|mobile|KPN Mobile|3646|2023-10-01|69.36|234.04|141.82|33.24|29.91
+netherlands|leiden|mobile|Odido|2860|2023-10-01|67.49|272.97|170.84|30.8|35.57
+netherlands|leiden|mobile|Vodafone|2863|2023-10-01|41.8|146.04|81.04|12.33|35.87
+netherlands|rotterdam|mobile|KPN Mobile|3646|2023-10-01|58.21|214.61|130.0|20.05|32.44
+netherlands|rotterdam|mobile|Odido|2860|2023-10-01|65.19|232.11|140.06|22.8|33.75
+netherlands|rotterdam|mobile|Vodafone|2863|2023-10-01|43.52|149.0|90.05|13.07|36.85
+netherlands|zoetermeer|mobile|KPN Mobile|3646|2023-10-01|71.85|239.53|140.15|24.96|31.04
+netherlands|zoetermeer|mobile|Odido|2860|2023-10-01|74.43|260.17|169.5|28.23|36.96
+netherlands|zoetermeer|mobile|Vodafone|2863|2023-10-01|43.3|157.09|82.6|15.49|35.56
+netherlands|amersfoort|mobile|KPN Mobile|3646|2023-10-01|54.4|208.18|117.86|19.87|33.42
+netherlands|amersfoort|mobile|Odido|2860|2023-10-01|61.57|247.8|136.68|18.02|40.46
+netherlands|amersfoort|mobile|Vodafone|2863|2023-10-01|39.24|153.74|85.96|9.65|37.11
+netherlands|utrecht|mobile|KPN Mobile|3646|2023-10-01|61.42|218.09|140.69|21.53|30.62
+netherlands|utrecht|mobile|Odido|2860|2023-10-01|65.89|233.99|146.86|22.38|35.36
+netherlands|utrecht|mobile|Vodafone|2863|2023-10-01|39.96|155.22|87.24|11.28|37.16

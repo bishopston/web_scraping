@@ -29,7 +29,6 @@ thrputs_per_opco = {
 }
 
 for url in urls:
-
     browser = start_firefox(url, headless=True)
 
     geoarea = url.split("/")
@@ -37,7 +36,7 @@ for url in urls:
 
     html = browser.page_source
 
-    with open("saving.txt", "w", encoding="windows-1250", errors='ignore') as f:
+    with open("saving.txt", "w", encoding="utf-8", errors="ignore") as f:
         f.write(html)
 
     file_ = open("saving.txt", "r")
@@ -66,22 +65,21 @@ for url in urls:
     thrputs_list_ = []
 
     if len(thrputs_list) > 1:
-
         for i in range(len(thrputs_list)):
-            thrputs_list[i] = thrputs_list[i].split(":")
+            if ":" in thrputs_list[i]:
+                thrputs_list[i] = thrputs_list[i].split(":")
 
-            if "download" in thrputs_list[i][0]:
-                thrputs_list[i][1] = float(thrputs_list[i][1])
-                thrputs_list_.append(thrputs_list[i][1])
-            else:
-                thrputs_list_.append(thrputs_list[i][1])
-            # print(type(thrputs_list[i][1]))
+                if "download" in thrputs_list[i][0]:
+                    thrputs_list[i][1] = float(thrputs_list[i][1])
+                    thrputs_list_.append(thrputs_list[i][1])
+                else:
+                    thrputs_list_.append(thrputs_list[i][1])
+                # print(type(thrputs_list[i][1]))
         print(thrputs_list_)
 
         count = 0
 
         while count < len(thrputs_list_):
-
             thrputs_per_opco["country"].append(geoarea[4])
             thrputs_per_opco["area"].append(geoarea[-1])
             thrputs_per_opco["service"].append(thrputs_list_[count])
@@ -116,7 +114,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_results/mobile_speeds_global_jun23_16-17.csv",
+    "/home/alexandros/Python/web_scraping/ookla/mobile_results/nov23/mobile_speeds_global_nov23_1-10.csv",
     index=None,
     sep="|",
     header=False,

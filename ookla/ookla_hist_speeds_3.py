@@ -83,7 +83,7 @@ for url in urls:
         print("++++++")
 
         if "mobile" in thrputs_list[1][0]:
-            #print("found")
+            # print("found")
             count = 0
 
             while count < len(thrputs_list_):
@@ -91,17 +91,29 @@ for url in urls:
                 thrputs_per_opco["country"].append(country)
                 thrputs_per_opco["area"].append(geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
-                thrputs_per_opco["mobile_median_download_mbps"].append(thrputs_list_[count + 1])
-                thrputs_per_opco["mobile_median_upload_mbps"].append(thrputs_list_[count + 2])
-                thrputs_per_opco["mobile_median_latency_ms"].append(thrputs_list_[count + 3])
-                thrputs_per_opco["fixed_median_download_mbps"].append(thrputs_list_[count + 4])
-                thrputs_per_opco["fixed_median_upload_mbps"].append(thrputs_list_[count + 5])
-                thrputs_per_opco["fixed_median_latency_ms"].append(thrputs_list_[count + 6])
+                thrputs_per_opco["mobile_median_download_mbps"].append(
+                    thrputs_list_[count + 1]
+                )
+                thrputs_per_opco["mobile_median_upload_mbps"].append(
+                    thrputs_list_[count + 2]
+                )
+                thrputs_per_opco["mobile_median_latency_ms"].append(
+                    thrputs_list_[count + 3]
+                )
+                thrputs_per_opco["fixed_median_download_mbps"].append(
+                    thrputs_list_[count + 4]
+                )
+                thrputs_per_opco["fixed_median_upload_mbps"].append(
+                    thrputs_list_[count + 5]
+                )
+                thrputs_per_opco["fixed_median_latency_ms"].append(
+                    thrputs_list_[count + 6]
+                )
 
                 count = count + 7
 
         else:
-            #print("not found")
+            # print("not found")
             count = 0
 
             while count < len(thrputs_list_):
@@ -112,12 +124,18 @@ for url in urls:
                 thrputs_per_opco["mobile_median_download_mbps"].append(0)
                 thrputs_per_opco["mobile_median_upload_mbps"].append(0)
                 thrputs_per_opco["mobile_median_latency_ms"].append(0)
-                thrputs_per_opco["fixed_median_download_mbps"].append(thrputs_list_[count + 1])
-                thrputs_per_opco["fixed_median_upload_mbps"].append(thrputs_list_[count + 2])
-                thrputs_per_opco["fixed_median_latency_ms"].append(thrputs_list_[count + 3])
+                thrputs_per_opco["fixed_median_download_mbps"].append(
+                    thrputs_list_[count + 1]
+                )
+                thrputs_per_opco["fixed_median_upload_mbps"].append(
+                    thrputs_list_[count + 2]
+                )
+                thrputs_per_opco["fixed_median_latency_ms"].append(
+                    thrputs_list_[count + 3]
+                )
 
                 count = count + 4
-            
+
 # print(len(thrputs_list))
 print(thrputs_per_opco)
 print("++++++")

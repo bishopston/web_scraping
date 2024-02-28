@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-path = r"/home/alexandros/ookla_speedtests/mobile"  # use your path
+path = r"/home/alexandros/ookla_speedtests/mobile/oct23-dec23"  # use your path
 all_files = glob.glob(os.path.join(path, "*.csv"))
 
 # print(all_files)
@@ -16,7 +16,7 @@ for filename in all_files:
 frame = pd.concat(li, axis=0, ignore_index=True)
 
 frame.to_csv(
-    "/home/alexandros/ookla_speedtests/mobile/mobile_results_concat_jun23_jul23_aug23.csv",
+    "/home/alexandros/ookla_speedtests/mobile/oct23-dec23/mobile_results_concat_oct23-dec23.csv",
     index=None,
     sep="|",
     header=False,

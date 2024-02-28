@@ -37,7 +37,7 @@ for url in urls:
 
     html = browser.page_source
 
-    with open("saving.txt", "w", encoding="windows-1250", errors='ignore') as f:
+    with open("saving.txt", "w", encoding="utf-8", errors="ignore") as f:
         f.write(html)
 
     file_ = open("saving.txt", "r")
@@ -117,7 +117,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "C:/Python/web_scraping_2/web_scraping/ookla/mobile_results/fixed_speeds_global_jun23_16-17.csv",
+    "/home/alexandros/Python/web_scraping/ookla/mobile_results/fixed_speeds_global_jun23_136-137.csv",
     index=None,
     sep="|",
     header=False,

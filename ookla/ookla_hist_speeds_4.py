@@ -30,7 +30,6 @@ thrputs_per_opco = {
 }
 
 for url in urls:
-
     browser = start_firefox(url, headless=True)
 
     geoarea = url.split("/")
@@ -69,11 +68,8 @@ for url in urls:
     thrputs_list_ = []
 
     if len(thrputs_list) > 1:
-
         for i in range(len(thrputs_list)):
-
             if ":" in thrputs_list[i]:
-
                 thrputs_list[i] = thrputs_list[i].split(":")
 
                 if "mbps" in thrputs_list[i][0]:
@@ -90,7 +86,6 @@ for url in urls:
             count = 0
 
             while count < len(thrputs_list_):
-
                 thrputs_per_opco["country"].append(country)
                 thrputs_per_opco["area"].append(geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
@@ -120,7 +115,6 @@ for url in urls:
             count = 0
 
             while count < len(thrputs_list_):
-
                 thrputs_per_opco["country"].append(country)
                 thrputs_per_opco["area"].append(geoarea[-1])
                 thrputs_per_opco["period"].append(thrputs_list_[count])
@@ -158,7 +152,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "/home/alexandros/Python/web_scraping/ookla/hist_results/hist_speeds_jun23_0-1.csv",
+    "/home/alexandros/Python/web_scraping/ookla/hist_results/hist_speeds_jun23_1-2_test4.csv",
     index=None,
     sep="|",
     header=False,

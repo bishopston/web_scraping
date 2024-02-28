@@ -1,7 +1,7 @@
 import pandas as pd
 
 df = pd.read_csv(
-    "/home/alexandros/Python/web_scraping/ookla/mobile_results/jul23/fixed_speeds_global_jul23_1-50.csv",
+    "/home/alexandros/ookla_speedtests/fixed/oct23-dec23/fixed_results_concat_oct23-dec23.csv",
     sep="|",
     encoding="utf-8",
     header=None,
@@ -14,6 +14,9 @@ df = pd.read_csv(
         "period",
         "p25_download_mbps",
         "p75_download_mbps",
+        "p50_download_mbps",
+        "p50_upload_mbps",
+        "p50_multiserver_latency_ms",
     ],
 )
 
@@ -75,11 +78,14 @@ df = df[
         "period",
         "p25_download_mbps",
         "p75_download_mbps",
+        "p50_download_mbps",
+        "p50_upload_mbps",
+        "p50_multiserver_latency_ms",
     ]
 ]
 
 df.to_csv(
-    "/home/alexandros/Python/web_scraping/ookla/temp/fixed_speeds_global_jul23_1-50_edit.csv",
+    "/home/alexandros/ookla_speedtests/fixed/oct23-dec23/fixed_results_concat_oct23-dec23_region.csv",
     index=None,
     sep="|",
     header=False,

@@ -1,7 +1,7 @@
 import pandas as pd
 
 df = pd.read_csv(
-    "/home/alexandros/ookla_speedtests/hist/jul22-jul23/hist_results_concat_jul22_jul23.csv",
+    "/home/alexandros/ookla_speedtests/hist/dec23/hist_results_concat_dec23.csv",
     sep="|",
     encoding="utf-8",
     header=None,
@@ -79,7 +79,7 @@ df = df[
 ]
 
 df.to_csv(
-    "/home/alexandros/ookla_speedtests/hist/jul22-jul23/hist_results_concat_jul22_jul23_region.csv",
+    "/home/alexandros/ookla_speedtests/hist/dec23/hist_results_concat_dec23_region.csv",
     index=None,
     sep="|",
     header=False,
