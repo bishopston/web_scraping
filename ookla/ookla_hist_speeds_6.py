@@ -178,7 +178,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "/home/alexandros/Python/web_scraping/ookla/hist_results/jan24/hist_speeds_jan24_0-2.csv",
+    "/home/alexandros/Python/web_scraping/ookla/hist_results/jan24/hist_speeds_jan24_150-end.csv",
     index=None,
     sep="|",
     header=False,
