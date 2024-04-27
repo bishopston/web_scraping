@@ -1,10 +1,11 @@
 from datetime import datetime
 import pandas as pd
 from helium import *
+import time
 
-from regions_urls_get import urls
+from urls_get_2 import urls
 
-current_date = "2024-01-01"
+current_date = "2024-02-01"
 
 df = pd.DataFrame(
     columns=[
@@ -32,11 +33,12 @@ thrputs_per_opco = {
 }
 
 for url in urls:
+
+
     browser = start_firefox(url, headless=True)
 
     geoarea = url.split("/")
     print(geoarea[-1])
-    print(geoarea[-2])
     print("++++++")
 
     html = browser.page_source
@@ -49,10 +51,12 @@ for url in urls:
     cnt = 0
     for i in range(0, len(lines)):
         if lines[i].find("placeMonthlyData") != -1:
+            print(lines[i])
             cnt = i
             break
-
+    
     thrputs = lines[i].strip("  var placeMonthlyData = ")
+    print(thrputs)
 
     thrputs = thrputs.replace(";", "")
     thrputs = thrputs.replace("[", "")
@@ -91,7 +95,7 @@ for url in urls:
                 # take only latest month
                 if thrputs_list_[count] == current_date:
                     thrputs_per_opco["country"].append(geoarea[4])
-                    thrputs_per_opco["area"].append(geoarea[-2] + "-" + geoarea[-1])
+                    thrputs_per_opco["area"].append(geoarea[-1])
                     thrputs_per_opco["period"].append(thrputs_list_[count])
                     thrputs_per_opco["mobile_median_download_mbps"].append(
                         thrputs_list_[count + 1]
@@ -122,7 +126,7 @@ for url in urls:
                 # take only latest month
                 if thrputs_list_[count] == current_date:
                     thrputs_per_opco["country"].append(geoarea[4])
-                    thrputs_per_opco["area"].append(geoarea[-2] + "-" + geoarea[-1])
+                    thrputs_per_opco["area"].append(geoarea[-1])
                     thrputs_per_opco["period"].append(thrputs_list_[count])
                     thrputs_per_opco["mobile_median_download_mbps"].append(0)
                     thrputs_per_opco["mobile_median_upload_mbps"].append(0)
@@ -147,7 +151,7 @@ for url in urls:
                 # take only latest month
                 if thrputs_list_[count] == current_date:
                     thrputs_per_opco["country"].append(geoarea[4])
-                    thrputs_per_opco["area"].append(geoarea[-2] + "-" + geoarea[-1])
+                    thrputs_per_opco["area"].append(geoarea[-1])
                     thrputs_per_opco["period"].append(thrputs_list_[count])
                     thrputs_per_opco["mobile_median_download_mbps"].append(
                         thrputs_list_[count + 1]
@@ -163,6 +167,8 @@ for url in urls:
                     thrputs_per_opco["fixed_median_latency_ms"].append(0)
 
                 count = count + 4
+    
+    time.sleep(1)
 
     browser.quit()
 
@@ -179,7 +185,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "/home/alexandros/Python/web_scraping/ookla/hist_results/jan24/hist_speeds_uk_jan24_0-2.csv",
+    "/home/alexandros/Python/web_scraping/ookla/hist_results/feb24/hist_speeds_feb24_30-31.csv",
     index=None,
     sep="|",
     header=False,

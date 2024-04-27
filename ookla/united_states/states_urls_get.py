@@ -6,7 +6,7 @@ from states_get import countries
 
 urls = []
 
-for item in countries[:2]:
+for item in countries[2:]:
     print(item)
 
     url_split = item.split("/")

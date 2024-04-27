@@ -1,10 +1,11 @@
 from datetime import datetime
 import pandas as pd
 from helium import *
+import time
 
 from urls_get_2 import urls
 
-current_date = "2024-01-01"
+current_date = "2024-03-01"
 
 df = pd.DataFrame(
     columns=[
@@ -32,7 +33,8 @@ thrputs_per_opco = {
 }
 
 for url in urls:
-    browser = start_firefox(url, headless=True)
+
+    browser = start_chrome(url, headless=True)
 
     geoarea = url.split("/")
     print(geoarea[-1])
@@ -178,7 +180,7 @@ df = df.assign(
 )
 
 df.to_csv(
-    "/home/alexandros/Python/web_scraping/ookla/hist_results/jan24/hist_speeds_jan24_150-end.csv",
+    "/home/alexandros/Python/web_scraping/ookla/hist_results/mar24/hist_speeds_mar24_35-36.csv",
     index=None,
     sep="|",
     header=False,

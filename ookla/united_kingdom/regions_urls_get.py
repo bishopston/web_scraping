@@ -6,7 +6,7 @@ from regions_get import countries
 
 urls = []
 
-for item in countries:
+for item in countries[:2]:
     print(item)
 
     url_split = item.split("/")
@@ -22,9 +22,10 @@ for item in countries:
     #     urls.append('https://www.speedtest.net' + li.a.get('href'))
 
     for li in soup.find_all("li"):
-        if ("/performance/united-kingdom/" + country + "/") in li.a.get("href"):
-            print("https://www.speedtest.net" + li.a.get("href"))
-            urls.append("https://www.speedtest.net" + li.a.get("href"))
+        if li.a:
+            if ("/performance/united-kingdom/" + country + "/") in li.a.get("href"):
+                print("https://www.speedtest.net" + li.a.get("href"))
+                urls.append("https://www.speedtest.net" + li.a.get("href"))
 
     browser.quit()
 
